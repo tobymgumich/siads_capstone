@@ -1,0 +1,136 @@
+id,level_1,level_2,level_3,level_4,level_5
+1,Data Preparation and Feature Engineering,Data Preparation,,,
+2,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,,
+3,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Handling Missing Values,
+4,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Handling Missing Values,Deletion
+5,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Handling Missing Values,Imputation
+6,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Outlier Detection and Treatment,
+7,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Outlier Detection and Treatment,Statistical Methods
+9,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Deduplication,
+10,Data Preparation and Feature Engineering,Data Preparation,Data Cleaning,Error Correction,
+11,Data Preparation and Feature Engineering,Data Preparation,Data Integration,,
+12,Data Preparation and Feature Engineering,Data Preparation,Data Integration,Merging Datasets,
+13,Data Preparation and Feature Engineering,Data Preparation,Data Integration,Concatenating Datasets,
+14,Data Preparation and Feature Engineering,Data Preparation,Data Transformation,,
+15,Data Preparation and Feature Engineering,Data Preparation,Data Transformation,Normalization,
+16,Data Preparation and Feature Engineering,Data Preparation,Data Transformation,Standardization,
+17,Data Preparation and Feature Engineering,Data Preparation,Data Transformation,Log Transformation,
+18,Data Preparation and Feature Engineering,Data Preparation,Data Transformation,Power Transformation,
+19,Data Preparation and Feature Engineering,Data Preparation,Data Reduction,,
+20,Data Preparation and Feature Engineering,Data Preparation,Data Reduction,Sampling,
+21,Data Preparation and Feature Engineering,Data Preparation,Data Reduction,Dimensionality Reduction,
+22,Data Preparation and Feature Engineering,Feature Engineering,,,
+23,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,,
+24,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Interaction Features,
+25,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Polynomial Features,
+26,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Domain-Specific Features,
+27,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,,
+28,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Binning,
+29,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,One-Hot Encoding,
+30,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Label Encoding,
+31,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Scaling,
+32,Data Preparation and Feature Engineering,Feature Engineering,Feature Imputation,,
+33,Data Preparation and Feature Engineering,Feature Engineering,Feature Imputation,Mean/Median Imputation,
+34,Data Preparation and Feature Engineering,Feature Engineering,Feature Imputation,Regression Imputation,
+35,Data Preparation and Feature Engineering,Feature Engineering,Feature Imputation,Multiple Imputation,
+36,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,,
+37,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Principal Component Analysis,
+38,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Linear Discriminant Analysis,
+39,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Independent Component Analysis,
+40,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,,
+41,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Filter Methods,
+42,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Filter Methods,Correlation-based
+43,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Filter Methods,Chi-squared Test
+44,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Wrapper Methods,
+45,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Wrapper Methods,Recursive Feature Elimination
+46,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Wrapper Methods,Forward Selection
+47,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Embedded Methods,
+48,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Embedded Methods,Least Absolute Shrinkage and Selection Operator (LASSO)
+49,Data Preparation and Feature Engineering,Feature Engineering,Feature Selection,Embedded Methods,Random Forest Importance
+50,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,,
+51,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Reshaping,
+52,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Reshaping,Wide to Long Format
+53,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Reshaping,Long to Wide Format
+54,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Flattening,
+55,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Flattening,2D to 1D
+56,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Flattening,Multi-dimensional to 1D
+57,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Expanding Dimensions,
+58,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Expanding Dimensions,Adding Channel Dimension
+59,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Expanding Dimensions,Adding Batch Dimension
+60,Data Preparation and Feature Engineering,Data Preparation,Data Restructuring,Transposing,
+61,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,N-gram Features,
+62,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,N-gram Features,Word N-grams
+63,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,N-gram Features,Character N-grams
+64,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Linguistic Features,
+65,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Linguistic Features,Part-of-Speech Tagging
+66,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Linguistic Features,Named-entity Recognition
+67,Data Preparation and Feature Engineering,Feature Engineering,Feature Creation,Linguistic Features,Dependency Parsing
+68,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Representation,
+69,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Representation,Bag of Words
+70,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Representation,Term frequency–inverse document frequency (TF-IDF)
+71,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,
+72,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,Tokenization
+73,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,Lowercasing
+74,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,Stemming
+75,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,Lemmatization
+76,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Text Preprocessing,Stop Word Removal
+77,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,
+78,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,Word2Vec
+79,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,GloVe
+80,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,FastText
+81,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,
+82,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,BERT (language model)
+83,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Word Embeddings,ELMo (embeddings from language model)
+84,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Topic Modeling,
+85,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Topic Modeling,Latent Dirichlet Allocation
+86,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Topic Modeling,Non-Negative Matrix Factorization
+87,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,
+88,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,Color Histograms
+89,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,Edge Detection
+90,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,SIFT (Scale-Invariant Feature Transform)
+91,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,SURF (Speeded Up Robust Features)
+92,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,HOG (Histogram of Oriented Gradients)
+93,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Image Features,Haar-like Features
+94,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Image Preprocessing,
+95,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Image Preprocessing,Resizing
+96,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Image Preprocessing,Normalization
+97,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Image Preprocessing,Color Space Conversion
+98,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Image Preprocessing,Data Augmentation
+99,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,
+100,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,Mel-frequency Cepstral Coefficients (MFCC)
+101,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,Spectral Centroid
+102,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,Chroma Features
+103,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,Zero Crossing Rate
+104,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Audio Features,Spectral Rolloff
+105,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Audio Preprocessing,
+106,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Audio Preprocessing,Resampling
+107,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Audio Preprocessing,Noise Reduction
+108,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Audio Preprocessing,Time Stretching
+109,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Audio Preprocessing,Pitch Shifting
+110,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Video Features,
+111,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Video Features,Motion Vectors
+112,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Video Features,Optical Flow
+113,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Video Features,Spatio-Temporal Interest Points
+114,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Video Features,3D Convolutional Features
+115,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Video Preprocessing,
+116,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Video Preprocessing,Frame Extraction
+117,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Video Preprocessing,Temporal Subsampling
+118,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Video Preprocessing,Shot Boundary Detection
+119,Data Preparation and Feature Engineering,Feature Engineering,Feature Transformation,Video Preprocessing,Video Stabilization
+120,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,,
+121,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Data-level Methods,
+122,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Data-level Methods,Random Oversampling
+123,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Data-level Methods,Random Undersampling
+124,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Synthetic Data,SMOTE (Synthetic Minority Over-sampling Technique)
+125,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Synthetic Data,ADASYN (Adaptive Synthetic)
+126,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Algorithm-level Methods,
+127,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Algorithm-level Methods,Class Weighting
+128,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Algorithm-level Methods,Adjusting Class Priors
+129,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Algorithm-level Methods,Threshold Moving
+130,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Ensemble Methods,
+131,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Ensemble Methods,Balanced Random Forest
+132,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Ensemble Methods,EasyEnsemble
+133,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Ensemble Methods,RUSBoost
+136,Data Preparation and Feature Engineering,Feature Engineering,Feature Extraction,Text Features,Regular Expressions
+137,Data Preparation and Feature Engineering,Feature Engineering,Data Cleaning,Error Correction,Regular Expressions
+138,Data Preparation and Feature Engineering,Feature Engineering,Class-imbalanced Datasets,Synthetic Data,

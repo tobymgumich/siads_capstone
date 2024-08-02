@@ -1,0 +1,9 @@
+id,tax_term,search_term
+1,Least Absolute Shrinkage and Selection Operator (LASSO),Lasso (statistics)
+2,Temperature,Temperature (softmax_function)
+3,Meta-learning,Meta-learning (computer science)
+4,Rectified Linear Unit (ReLU),Rectified Linear Unit
+5,t-distributed stochastic neighbor embedding (t-SNE),t-distributed stochastic neighbor embedding
+6,Gradient Descent Algorithms,Gradient Descent
+8,LLM Agents,Intelligent Agent
+9,Hyperparameter Selection,Hyperparameter optimization

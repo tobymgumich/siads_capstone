@@ -1,0 +1,86 @@
+id,level_1,level_2,level_3,level_4,level_5
+1,Model hyperparameters,Regularization,,,
+2,Model hyperparameters,Regularization,Parameter Norm Penalties,,
+3,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,
+4,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Least Absolute Shrinkage and Selection Operator (LASSO)
+5,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Sparse Coding
+6,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,L1-regularized Logistic Regression
+7,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Least Angle Regression
+8,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Group Lasso
+9,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Fused Lasso
+10,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Graphical Lasso
+11,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,L1-regularized SVM
+12,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,
+13,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,Ridge Regression
+14,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,Weight Decay
+15,Model hyperparameters,Regularization,Parameter Norm Penalties,Elastic Net,
+16,Model hyperparameters,Regularization,Noise Injection,,
+17,Model hyperparameters,Regularization,Noise Injection,Dropout,
+18,Model hyperparameters,Regularization,Noise Injection,Data Augmentation,
+19,Model hyperparameters,Regularization,Noise Injection,Gaussian Noise,
+20,Model hyperparameters,Regularization,Early Stopping,,
+21,Model hyperparameters,Regularization,Ensemble Methods,,
+22,Model hyperparameters,Regularization,Ensemble Methods,Bootstrap aggregating,
+23,Model hyperparameters,Regularization,Ensemble Methods,Boosting,
+24,Model hyperparameters,Regularization,Ensemble Methods,Random Forest,
+25,Model hyperparameters,Regularization,Constraints,,
+26,Model hyperparameters,Regularization,Constraints,Max Norm Constraints,
+27,Model hyperparameters,Regularization,Data Augmentation,,
+28,Model hyperparameters,Regularization,Data Augmentation,Image Transformations,
+29,Model hyperparameters,Regularization,Data Augmentation,Text Augmentation,
+30,Model hyperparameters,Regularization,Pruning,,
+31,Model hyperparameters,Regularization,Pruning,Weight Pruning,
+32,Model hyperparameters,Regularization,Pruning,Unit Pruning,
+33,Model hyperparameters,Regularization,Batch Normalization,,
+34,Model hyperparameters,Regularization,Layer Normalization,,
+35,Model hyperparameters,Regularization,Gradient Clipping,,
+36,Model hyperparameters,Parameter Optimizer,,,
+37,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,,
+38,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Fixed Learning Rate,
+39,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Fixed Learning Rate,Gradient Descent
+40,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Fixed Learning Rate,Stochastic Gradient Descent
+41,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Fixed Learning Rate,Mini-Batch Gradient Descent
+42,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Momentum-Based,
+43,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Momentum-Based,Momentum-based SGD
+44,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Momentum-Based,Nesterov Accelerated Gradient
+45,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Adaptive Learning Rate,
+46,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Adaptive Learning Rate,AdaGrad
+47,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Adaptive Learning Rate,RMSProp
+48,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Adaptive Learning Rate,Adam
+49,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Adaptive Learning Rate,AdamW
+50,Model hyperparameters,Parameter Optimizer,Hessian-Based Methods,,
+51,Model hyperparameters,Parameter Optimizer,Hessian-Based Methods,"Newton's Method",
+52,Model hyperparameters,Parameter Optimizer,Quasi-Newton Methods,,
+53,Model hyperparameters,Parameter Optimizer,Quasi-Newton Methods,L-BFGS,
+54,Model hyperparameters,Learning Rate Schedule,,,
+55,Model hyperparameters,Learning Rate Schedule,Fixed Schedule,,
+56,Model hyperparameters,Learning Rate Schedule,Fixed Schedule,Step Decay,
+57,Model hyperparameters,Learning Rate Schedule,Fixed Schedule,Exponential Decay,
+58,Model hyperparameters,Learning Rate Schedule,Adaptive Schedule,,
+59,Model hyperparameters,Learning Rate Schedule,Adaptive Schedule,Cosine Annealing,
+60,Model hyperparameters,Learning Rate Schedule,Adaptive Schedule,Cyclic Learning Rates,
+61,Model hyperparameters,Learning Rate Schedule,Adaptive Schedule,Reduce on Plateau,
+74,Model hyperparameters,Loss Function,Regression Loss,Huber Loss,
+75,Model hyperparameters,Loss Function,Classification Loss,,
+76,Model hyperparameters,Loss Function,Classification Loss,Binary Cross-Entropy,
+78,Model hyperparameters,Loss Function,Classification Loss,Hinge Loss,
+108,Model hyperparameters,Loss Function,Classification Loss,Categorical Cross-Entropy,
+109,Model hyperparameters,Loss Function,Classification Loss,Focal Loss,
+110,Model hyperparameters,Loss Function,Probabilistic Loss,,
+111,Model hyperparameters,Loss Function,Probabilistic Loss,Kullback-Leibler Divergence,
+112,Model hyperparameters,Loss Function,Contrastive Loss,,
+113,Model hyperparameters,Loss Function,Contrastive Loss,Triplet Loss,
+114,Model hyperparameters,Loss Function,Adversarial Loss,,
+115,Model hyperparameters,Loss Function,Perceptual Loss,VGG Loss,
+116,Model hyperparameters,Loss Function,Diffusion Model Loss,,
+117,Model hyperparameters,Loss Function,Adversarial Loss,Wasserstein Loss,
+118,Model hyperparameters,Loss Function,Perceptual Loss,,
+119,Model hyperparameters,Loss Function,Adversarial Loss,Minimax Loss,
+120,Model hyperparameters,Loss Function,Diffusion Model Loss,Variational Lower Bound,
+121,Model hyperparameters,Loss Function,,,
+122,Model hyperparameters,Loss Function,Regression Loss,,
+123,Model hyperparameters,Loss Function,Regression Loss,Mean Squared Error (MSE),
+124,Model hyperparameters,Loss Function,Regression Loss,Mean Absolute Error,
+125,Model hyperparameters,Number of Epochs,,,
+126,Model hyperparameters,Batch Size,,,
+127,Model hyperparameters,Learning Rate,,,
