@@ -1,0 +1,538 @@
+taxonomy_term,term_regex
+Trainable Layers,trainable(\s*|\-)?layer
+Cluster Analysis,cluster(\s*|\-)?analysi
+Temperature,temperature
+One-Sample,one(\s*|\-)?sample
+Resnet,resnet
+Adapter Layers,adapter(\s*|\-)?layer
+Sigmoid,sigmoid
+Generative Adversarial Network,generative(\s*|\-)?adversarial(\s*|\-)?network
+Least-Angle Regression,least(\s*|\-)?angle(\s*|\-)?regression
+Co-Adaptation,co(\s*|\-)?adaptation
+Part-Of-Speech Tagging,part(\s*|\-)?of(\s*|\-)?speech(\s*|\-)?tagging
+Spectral Centroid,spectral(\s*|\-)?centroid
+Pitch Shifting,pitch(\s*|\-)?shifting
+Adversarial Training,adversarial(\s*|\-)?training
+Feature Imputation,feature(\s*|\-)?imputation
+R-Squared (R2),r(\s*|\-)?squared(\s*|\-)?\(r2\)
+False Positive,false(\s*|\-)?positive
+Gaussian Mixture Models,gaussian(\s*|\-)?mixture(\s*|\-)?model
+Image Features,image(\s*|\-)?feature
+Least Angle Regression,least(\s*|\-)?angle(\s*|\-)?regression
+Distillation,distillation
+Nesterov Accelerated Gradient,nesterov(\s*|\-)?accelerated(\s*|\-)?gradient
+Retrieval Augmented Generation,retrieval(\s*|\-)?augmented(\s*|\-)?generation
+Inductive Logic Programming,inductive(\s*|\-)?logic(\s*|\-)?programming
+Peak Signal-To-Noise Ratio,peak(\s*|\-)?signal(\s*|\-)?to(\s*|\-)?noise(\s*|\-)?ratio
+Feature-Group-Sample,feature(\s*|\-)?group(\s*|\-)?sample
+Embeddings,embedding
+K-Means Clustering,k(\s*|\-)?means(\s*|\-)?clustering
+Multiple Imputation,multiple(\s*|\-)?imputation
+Fine-Tuning,fine(\s*|\-)?tuning
+Mean Absolute Percentage Error,mean(\s*|\-)?absolute(\s*|\-)?percentage(\s*|\-)?error
+Accuracy,accuracy
+Recall,recall
+Latent Diffusion Models,latent(\s*|\-)?diffusion(\s*|\-)?model
+Graphical Lasso,graphical(\s*|\-)?lasso
+Mean Average Precision,mean(\s*|\-)?average(\s*|\-)?precision
+Self-Training,self(\s*|\-)?training
+Perceptual Loss,perceptual(\s*|\-)?los
+Apriori Algorithm,apriori(\s*|\-)?algorithm
+Correlation-Based,correlation(\s*|\-)?based
+Automatic Mixed Precision,automatic(\s*|\-)?mixed(\s*|\-)?precision
+Natural Language Processing Metrics,natural(\s*|\-)?language(\s*|\-)?processing(\s*|\-)?metric
+Bayesian Optimization,bayesian(\s*|\-)?optimization
+Orthogonal Initialization,orthogonal(\s*|\-)?initialization
+Symmetric Mean Absolute Percentage Error (SMAPE),symmetric(\s*|\-)?mean(\s*|\-)?absolute(\s*|\-)?percentage(\s*|\-)?error(\s*|\-)?\(smape\)
+Non-Negative Matrix Factorization,non(\s*|\-)?negative(\s*|\-)?matrix(\s*|\-)?factorization
+Gaussian Naive Bayes,gaussian(\s*|\-)?naive(\s*|\-)?baye
+Recurrent Layer,recurrent(\s*|\-)?layer
+Q-Learning,q(\s*|\-)?learning
+Regular Expressions,regular(\s*|\-)?expression
+Shot Boundary Detection,shot(\s*|\-)?boundary(\s*|\-)?detection
+Cross-Validation,cross(\s*|\-)?validation
+Confusion Matrix,confusion(\s*|\-)?matrix
+Newton'S Method,newton's(\s*|\-)?method
+Eclat Algorithm,eclat(\s*|\-)?algorithm
+Meta-Learning,meta(\s*|\-)?learning
+Topic Modeling,topic(\s*|\-)?modeling
+Boltzmann Machines,boltzmann(\s*|\-)?machine
+Hierarchical Clustering,hierarchical(\s*|\-)?clustering
+K-Medians,k(\s*|\-)?median
+Probably Approximately Correct Learning,probably(\s*|\-)?approximately(\s*|\-)?correct(\s*|\-)?learning
+Sparse Coding,sparse(\s*|\-)?coding
+Non-Linear Activations,non(\s*|\-)?linear(\s*|\-)?activation
+Resampling,resampling
+Convolutional Neural Network,convolutional(\s*|\-)?neural(\s*|\-)?network
+Fixed Learning Rate,fixed(\s*|\-)?learning(\s*|\-)?rate
+Loss Curve,loss(\s*|\-)?curve
+Fasttext,fasttext
+Case-Based Reasoning,case(\s*|\-)?based(\s*|\-)?reasoning
+Hessian-Based Methods,hessian(\s*|\-)?based(\s*|\-)?method
+Concept Drift,concept(\s*|\-)?drift
+Low-Density Separation,low(\s*|\-)?density(\s*|\-)?separation
+Gradient Boosting,gradient(\s*|\-)?boosting
+Model Evaluation & Testing,model(\s*|\-)?evaluation(\s*|\-)?\&(\s*|\-)?testing
+Cyclic Learning Rates,cyclic(\s*|\-)?learning(\s*|\-)?rate
+Fp-Growth Algorithm,fp(\s*|\-)?growth(\s*|\-)?algorithm
+Leaky Relu,leaky(\s*|\-)?relu
+Temporal Subsampling,temporal(\s*|\-)?subsampling
+Vector Databases,vector(\s*|\-)?database
+Adagrad,adagrad
+VGG Loss,vgg(\s*|\-)?los
+Chunk Selection,chunk(\s*|\-)?selection
+Mahalanobis Distance,mahalanobis(\s*|\-)?distance
+Synthetic Data,synthetic(\s*|\-)?data
+Model Hyperparameters,model(\s*|\-)?hyperparameter
+Bayesian Network,bayesian(\s*|\-)?network
+Log Transformation,log(\s*|\-)?transformation
+Stop Word Removal,stop(\s*|\-)?word(\s*|\-)?removal
+Max Norm Constraints,max(\s*|\-)?norm(\s*|\-)?constraint
+Focal Loss,focal(\s*|\-)?los
+Mean Squared Error,mean(\s*|\-)?squared(\s*|\-)?error
+Hard Parameter Sharing,hard(\s*|\-)?parameter(\s*|\-)?sharing
+Principal Component Analysis,principal(\s*|\-)?component(\s*|\-)?analysi
+Adding Channel Dimension,adding(\s*|\-)?channel(\s*|\-)?dimension
+Hidden Markov Models,hidden(\s*|\-)?markov(\s*|\-)?model
+Named-Entity Recognition,named(\s*|\-)?entity(\s*|\-)?recognition
+Optical Flow,optical(\s*|\-)?flow
+Autoencoder,autoencoder
+Recall At K,recall(\s*|\-)?at(\s*|\-)?k
+Mean Absolute Error,mean(\s*|\-)?absolute(\s*|\-)?error
+Association Rule Learning,association(\s*|\-)?rule(\s*|\-)?learning
+Dependency Parsing,dependency(\s*|\-)?parsing
+Character N-Grams,character(\s*|\-)?n(\s*|\-)?gram
+Ripple Down Rules,ripple(\s*|\-)?down(\s*|\-)?rule
+Label Leakage,label(\s*|\-)?leakage
+Kolmogorov-Smirnov Test,kolmogorov(\s*|\-)?smirnov(\s*|\-)?test
+SURF (Speeded Up Robust Features),surf(\s*|\-)?\(speeded(\s*|\-)?up(\s*|\-)?robust(\s*|\-)?features\)
+Step Decay,step(\s*|\-)?decay
+Reduce On Plateau,reduce(\s*|\-)?on(\s*|\-)?plateau
+Wasserstein Loss,wasserstein(\s*|\-)?los
+Regression Analysis,regression(\s*|\-)?analysi
+Probabilistic Metrics,probabilistic(\s*|\-)?metric
+Max Pooling,max(\s*|\-)?pooling
+Wrapper Methods,wrapper(\s*|\-)?method
+Power Transformation,power(\s*|\-)?transformation
+Stochastic Gradient Descent,stochastic(\s*|\-)?gradient(\s*|\-)?descent
+2D To 1D,2d(\s*|\-)?to(\s*|\-)?1d
+Gaussian Process Regression,gaussian(\s*|\-)?process(\s*|\-)?regression
+Gradient Descent Algorithms,gradient(\s*|\-)?descent(\s*|\-)?algorithm
+Gradient Boosted Decision Tree,gradient(\s*|\-)?boosted(\s*|\-)?decision(\s*|\-)?tree
+Word N-Grams,word(\s*|\-)?n(\s*|\-)?gram
+Multi-Class Classification,multi(\s*|\-)?class(\s*|\-)?classification
+Text Augmentation,text(\s*|\-)?augmentation
+Spatio-Temporal Interest Points,spatio(\s*|\-)?temporal(\s*|\-)?interest(\s*|\-)?point
+Probabilistic Loss,probabilistic(\s*|\-)?los
+Transfer Learning,transfer(\s*|\-)?learning
+L-BFGS,l(\s*|\-)?bfg
+Normalized Discounted Cumulative Gain,normalized(\s*|\-)?discounted(\s*|\-)?cumulative(\s*|\-)?gain
+Instruction Tuning,instruction(\s*|\-)?tuning
+Gradient Freezing,gradient(\s*|\-)?freezing
+Regularization Layers,regularization(\s*|\-)?layer
+Binary Classification,binary(\s*|\-)?classification
+Data Restructuring,data(\s*|\-)?restructuring
+Multivariate Adaptive Regression Splines,multivariate(\s*|\-)?adaptive(\s*|\-)?regression(\s*|\-)?spline
+Computational Efficiency,computational(\s*|\-)?efficiency
+Scaling,scaling
+Validation Techniques,validation(\s*|\-)?technique
+Hierarchical Classifier,hierarchical(\s*|\-)?classifier
+Tanh,tanh
+Easyensemble,easyensemble
+Continuous Value Prediction,continuous(\s*|\-)?value(\s*|\-)?prediction
+Zero-Shot Prompting,zero(\s*|\-)?shot(\s*|\-)?prompting
+Word Embeddings,word(\s*|\-)?embedding
+Root Mean Squared Error,root(\s*|\-)?mean(\s*|\-)?squared(\s*|\-)?error
+Minimax Loss,minimax(\s*|\-)?los
+Random Search,random(\s*|\-)?search
+Overfitting,overfitting
+Self-Supervised Learning,self(\s*|\-)?supervised(\s*|\-)?learning
+Spectral Rolloff,spectral(\s*|\-)?rolloff
+Long Short-Term Memory,long(\s*|\-)?short(\s*|\-)?term(\s*|\-)?memory
+Unsupervised Learning,unsupervised(\s*|\-)?learning
+Regression Imputation,regression(\s*|\-)?imputation
+Feature Transformation,feature(\s*|\-)?transformation
+Random Undersampling,random(\s*|\-)?undersampling
+Conditional Random Field,conditional(\s*|\-)?random(\s*|\-)?field
+Normal Distribution,normal(\s*|\-)?distribution
+Linear Discriminant Analysis,linear(\s*|\-)?discriminant(\s*|\-)?analysi
+Max Tokens,max(\s*|\-)?token
+Threshold Moving,threshold(\s*|\-)?moving
+Error Correction,error(\s*|\-)?correction
+Video Features,video(\s*|\-)?feature
+Mini-Batch Gradient Descent,mini(\s*|\-)?batch(\s*|\-)?gradient(\s*|\-)?descent
+Temporal Difference Learning,temporal(\s*|\-)?difference(\s*|\-)?learning
+Ensemble Methods,ensemble(\s*|\-)?method
+Ordinal Classification,ordinal(\s*|\-)?classification
+Bayesian Belief Network,bayesian(\s*|\-)?belief(\s*|\-)?network
+Standardization,standardization
+Davies-Bouldin Index,davies(\s*|\-)?bouldin(\s*|\-)?index
+Handling Missing Values,handling(\s*|\-)?missing(\s*|\-)?value
+Diffusion Models,diffusion(\s*|\-)?model
+Policy-Based Methods,policy(\s*|\-)?based(\s*|\-)?method
+Large Language Models,large(\s*|\-)?language(\s*|\-)?model
+ADASYN (Adaptive Synthetic),adasyn(\s*|\-)?\(adaptive(\s*|\-)?synthetic\)
+Ml Methods,ml(\s*|\-)?method
+Inception Score,inception(\s*|\-)?score
+Activation Functions,activation(\s*|\-)?function
+Bayesian Statistics,bayesian(\s*|\-)?statistic
+Logistic Model Tree,logistic(\s*|\-)?model(\s*|\-)?tree
+BLEU Score,bleu(\s*|\-)?score
+Supervised Learning,supervised(\s*|\-)?learning
+Concatenating Datasets,concatenating(\s*|\-)?dataset
+Glorot/Xavier Initialization,glorot/xavier(\s*|\-)?initialization
+Constraints,constraint
+Advanced Training Strategies,advanced(\s*|\-)?training(\s*|\-)?strategie
+Parameter Norm Penalties,parameter(\s*|\-)?norm(\s*|\-)?penaltie
+Layer Normalization,layer(\s*|\-)?normalization
+Binary Classifier,binary(\s*|\-)?classifier
+Multi-Dimensional To 1D,multi(\s*|\-)?dimensional(\s*|\-)?to(\s*|\-)?1d
+Batch-Sample,batch(\s*|\-)?sample
+Multi-Dimensional Scaling,multi(\s*|\-)?dimensional(\s*|\-)?scaling
+Data Preparation And Feature Engineering,data(\s*|\-)?preparation(\s*|\-)?and(\s*|\-)?feature(\s*|\-)?engineering
+Statistical Metrics,statistical(\s*|\-)?metric
+Fréchet Inception Distance,fréchet(\s*|\-)?inception(\s*|\-)?distance
+Zero Weight Initialization,zero(\s*|\-)?weight(\s*|\-)?initialization
+Batch Normalization,batch(\s*|\-)?normalization
+Text Representation,text(\s*|\-)?representation
+Soft Prompt Tuning,soft(\s*|\-)?prompt(\s*|\-)?tuning
+3D Convolutional Features,3d(\s*|\-)?convolutional(\s*|\-)?feature
+Representation Fine-Tuning (Reft),representation(\s*|\-)?fine(\s*|\-)?tuning(\s*|\-)?\(reft\)
+Single-Linkage Clustering,single(\s*|\-)?linkage(\s*|\-)?clustering
+Forward Selection,forward(\s*|\-)?selection
+Image Generation Metrics,image(\s*|\-)?generation(\s*|\-)?metric
+Deep Learning,deep(\s*|\-)?learning
+Metadata,metadata
+Feedforward Neural Network,feedforward(\s*|\-)?neural(\s*|\-)?network
+Analogical Modeling,analogical(\s*|\-)?modeling
+Learning Rate,learning(\s*|\-)?rate
+Pooling Layers,pooling(\s*|\-)?layer
+Tokenization,tokenization
+Data Preparation,data(\s*|\-)?preparation
+Precision,precision
+Momentum-based SGD,momentum(\s*|\-)?based(\s*|\-)?sgd
+ROUGE Score,rouge(\s*|\-)?score
+Edge Detection,edge(\s*|\-)?detection
+Contrastive Learning Methods,contrastive(\s*|\-)?learning(\s*|\-)?method
+Group Method Of Data Handling,group(\s*|\-)?method(\s*|\-)?of(\s*|\-)?data(\s*|\-)?handling
+Adjusting Class Priors,adjusting(\s*|\-)?class(\s*|\-)?prior
+Embedded Methods,embedded(\s*|\-)?method
+CycleGAN,cyclegan
+Evaluation Metrics,evaluation(\s*|\-)?metric
+Retrieval Augmentation,retrieval(\s*|\-)?augmentation
+Logistic Regression,logistic(\s*|\-)?regression
+Reshaping,reshaping
+Color Histograms,color(\s*|\-)?histogram
+Regression Classifiers,regression(\s*|\-)?classifier
+Speech Recognition,speech(\s*|\-)?recognition
+Masked Language Models,masked(\s*|\-)?language(\s*|\-)?model
+Q-Function,q(\s*|\-)?function
+Image Preprocessing,image(\s*|\-)?preprocessing
+Other Specialized Metrics,other(\s*|\-)?specialized(\s*|\-)?metric
+DBSCAN,dbscan
+Transduction,transduction
+Inception,inception
+Linear Classifier,linear(\s*|\-)?classifier
+Spatial Dropout,spatial(\s*|\-)?dropout
+Video Preprocessing,video(\s*|\-)?preprocessing
+Haar-Like Features,haar(\s*|\-)?like(\s*|\-)?feature
+Feature Extraction,feature(\s*|\-)?extraction
+Time Series Prediction,time(\s*|\-)?series(\s*|\-)?prediction
+Naive Bayes,naive(\s*|\-)?baye
+Additional Layers,additional(\s*|\-)?layer
+Word2Vec,word2vec
+BERT (language model),bert(\s*|\-)?\(language(\s*|\-)?model\)
+Precision At K,precision(\s*|\-)?at(\s*|\-)?k
+Linear Activation,linear(\s*|\-)?activation
+Adaptive Learning Rate,adaptive(\s*|\-)?learning(\s*|\-)?rate
+Log Loss,log(\s*|\-)?los
+Model Stability And Flexibility,model(\s*|\-)?stability(\s*|\-)?and(\s*|\-)?flexibility
+Ensemble Averaging,ensemble(\s*|\-)?averaging
+Convolutional Layer,convolutional(\s*|\-)?layer
+Uniform Distribution,uniform(\s*|\-)?distribution
+Mel-Frequency Cepstral Coefficients,mel(\s*|\-)?frequency(\s*|\-)?cepstral(\s*|\-)?coefficient
+Ranking Metrics,ranking(\s*|\-)?metric
+Recursive Feature Elimination,recursive(\s*|\-)?feature(\s*|\-)?elimination
+Elastic Net,elastic(\s*|\-)?net
+Machine Translation,machine(\s*|\-)?translation
+Weight Decay,weight(\s*|\-)?decay
+Hyperparameter Selection,hyperparameter(\s*|\-)?selection
+Diffusion Model Loss,diffusion(\s*|\-)?model(\s*|\-)?los
+Sampling,sampling
+Data Retrieval,data(\s*|\-)?retrieval
+Triplet Loss,triplet(\s*|\-)?los
+Score-Based Generative Models,score(\s*|\-)?based(\s*|\-)?generative(\s*|\-)?model
+Semi-Supervised Learning,semi(\s*|\-)?supervised(\s*|\-)?learning
+Visualisation Techniques,visualisation(\s*|\-)?technique
+Bag Of Words,bag(\s*|\-)?of(\s*|\-)?word
+Flattening,flattening
+Information Retrieval Metrics,information(\s*|\-)?retrieval(\s*|\-)?metric
+Decoder,decoder
+Deduplication,deduplication
+Support Vector Machines,support(\s*|\-)?vector(\s*|\-)?machine
+Model Objective,model(\s*|\-)?objective
+Gaussian Noise,gaussian(\s*|\-)?noise
+Encoder-Decoder,encoder(\s*|\-)?decoder
+Pretrained Weights,pretrained(\s*|\-)?weight
+Weight Initialization,weight(\s*|\-)?initialization
+Average Pooling,average(\s*|\-)?pooling
+L1-regularized SVM,l1(\s*|\-)?regularized(\s*|\-)?svm
+Variational Lower Bound,variational(\s*|\-)?lower(\s*|\-)?bound
+Adding Batch Dimension,adding(\s*|\-)?batch(\s*|\-)?dimension
+Clustering Metrics,clustering(\s*|\-)?metric
+Fully Connected Layer,fully(\s*|\-)?connected(\s*|\-)?layer
+Artificial Neural Network,artificial(\s*|\-)?neural(\s*|\-)?network
+Prompt Engineering,prompt(\s*|\-)?engineering
+Curriculum Learning,curriculum(\s*|\-)?learning
+Image Transformations,image(\s*|\-)?transformation
+True Positive,true(\s*|\-)?positive
+Ordinary Least Squares Regression,ordinary(\s*|\-)?least(\s*|\-)?squares(\s*|\-)?regression
+Chain-Of-Thought Prompting,chain(\s*|\-)?of(\s*|\-)?thought(\s*|\-)?prompting
+Parameter-Efficient Fine-Tuning,parameter(\s*|\-)?efficient(\s*|\-)?fine(\s*|\-)?tuning
+Automatic Precision Training,automatic(\s*|\-)?precision(\s*|\-)?training
+Stepwise Regression,stepwise(\s*|\-)?regression
+Multi-Task Learning,multi(\s*|\-)?task(\s*|\-)?learning
+Neural Architecture Search,neural(\s*|\-)?architecture(\s*|\-)?search
+Number Of Epochs,number(\s*|\-)?of(\s*|\-)?epoch
+Rectified Linear Unit (Relu),rectified(\s*|\-)?linear(\s*|\-)?unit(\s*|\-)?\(relu\)
+Perplexity,perplexity
+Term frequency–inverse document frequency (TF-IDF),term(\s*|\-)?frequency–inverse(\s*|\-)?document(\s*|\-)?frequency(\s*|\-)?\(tf(\s*|\-)?idf\)
+Earth Mover'S Distance (Wasserstein),earth(\s*|\-)?mover's(\s*|\-)?distance(\s*|\-)?\(wasserstein\)
+Text Preprocessing,text(\s*|\-)?preprocessing
+Regression Loss,regression(\s*|\-)?los
+Projection Pursuit,projection(\s*|\-)?pursuit
+Deep Belief Networks,deep(\s*|\-)?belief(\s*|\-)?network
+Jensen-Shannon Divergence,jensen(\s*|\-)?shannon(\s*|\-)?divergence
+State–action–reward–state–action (SARSA),state–action–reward–state–action(\s*|\-)?\(sarsa\)
+Model Cascading,model(\s*|\-)?cascading
+Data Cleaning,data(\s*|\-)?cleaning
+Structural Similarity Index,structural(\s*|\-)?similarity(\s*|\-)?index
+Video Stabilization,video(\s*|\-)?stabilization
+Stemming,stemming
+Prompt Tuning,prompt(\s*|\-)?tuning
+Partial Least Squares Regression,partial(\s*|\-)?least(\s*|\-)?squares(\s*|\-)?regression
+Data Storage,data(\s*|\-)?storage
+Regression Metrics,regression(\s*|\-)?metric
+Context Window,context(\s*|\-)?window
+Graph-Based Methods,graph(\s*|\-)?based(\s*|\-)?method
+Data-Level Methods,data(\s*|\-)?level(\s*|\-)?method
+RMSProp,rmsprop
+Vanishing Gradient Problem,vanishing(\s*|\-)?gradient(\s*|\-)?problem
+Inference Parameters,inference(\s*|\-)?parameter
+Boosting,boosting
+Dimensionality Reduction,dimensionality(\s*|\-)?reduction
+True Negative,true(\s*|\-)?negative
+Matthews Correlation Coefficient,matthews(\s*|\-)?correlation(\s*|\-)?coefficient
+Reinforcement Learning,reinforcement(\s*|\-)?learning
+Resizing,resizing
+Ensemble Learning,ensemble(\s*|\-)?learning
+Pattern Recognition,pattern(\s*|\-)?recognition
+LLM Agents,llm(\s*|\-)?agent
+Time Series Metrics,time(\s*|\-)?series(\s*|\-)?metric
+Expanding Dimensions,expanding(\s*|\-)?dimension
+Mean Reciprocal Rank,mean(\s*|\-)?reciprocal(\s*|\-)?rank
+Object Detection,object(\s*|\-)?detection
+L1-Regularized Logistic Regression,l1(\s*|\-)?regularized(\s*|\-)?logistic(\s*|\-)?regression
+Polynomial Features,polynomial(\s*|\-)?feature
+Model Architecture Design,model(\s*|\-)?architecture(\s*|\-)?design
+Quantization,quantization
+AUC-ROC,auc(\s*|\-)?roc
+Generative Models,generative(\s*|\-)?model
+False Negative,false(\s*|\-)?negative
+Data Reduction,data(\s*|\-)?reduction
+Area Under Pr Curve,area(\s*|\-)?under(\s*|\-)?pr(\s*|\-)?curve
+Bhattacharyya Distance,bhattacharyya(\s*|\-)?distance
+Output Layer - Regression,output(\s*|\-)?layer(\s*|\-)?(\s*|\-)?(\s*|\-)?regression
+Normalization,normalization
+Cohen'S Kappa,cohen's(\s*|\-)?kappa
+Unit Pruning,unit(\s*|\-)?pruning
+Exploding Gradient Problem,exploding(\s*|\-)?gradient(\s*|\-)?problem
+Adam,adam
+One-Shot Prompting,one(\s*|\-)?shot(\s*|\-)?prompting
+Model Deployment,model(\s*|\-)?deployment
+Parameter Optimizer,parameter(\s*|\-)?optimizer
+Glove,glove
+Reshape,reshape
+Jaccard Index,jaccard(\s*|\-)?index
+Independent Component Analysis,independent(\s*|\-)?component(\s*|\-)?analysi
+Silhouette Score,silhouette(\s*|\-)?score
+Hinge Loss,hinge(\s*|\-)?los
+Dropout,dropout
+Adaptive Schedule,adaptive(\s*|\-)?schedule
+Actor-Critic Methods,actor(\s*|\-)?critic(\s*|\-)?method
+Quasi-Newton Methods,quasi(\s*|\-)?newton(\s*|\-)?method
+Calinski-Harabasz Index,calinski(\s*|\-)?harabasz(\s*|\-)?index
+Normalization Layers,normalization(\s*|\-)?layer
+K-Fold,k(\s*|\-)?fold
+Huber Loss,huber(\s*|\-)?los
+Balanced Random Forest,balanced(\s*|\-)?random(\s*|\-)?forest
+Expectation-Maximization Algorithm,expectation(\s*|\-)?maximization(\s*|\-)?algorithm
+Linguistic Features,linguistic(\s*|\-)?feature
+ELMo (embeddings from language model),elmo(\s*|\-)?\(embeddings(\s*|\-)?from(\s*|\-)?language(\s*|\-)?model\)
+Adversarial Loss,adversarial(\s*|\-)?los
+Holdout Data,holdout(\s*|\-)?data
+Brier Score,brier(\s*|\-)?score
+Transforming Layers,transforming(\s*|\-)?layer
+Gradient Accumulation,gradient(\s*|\-)?accumulation
+Concatenate,concatenate
+Group Lasso,group(\s*|\-)?lasso
+Least Absolute Shrinkage and Selection Operator (LASSO),least(\s*|\-)?absolute(\s*|\-)?shrinkage(\s*|\-)?and(\s*|\-)?selection(\s*|\-)?operator(\s*|\-)?\(lasso\)
+Label Encoding,label(\s*|\-)?encoding
+Mean-Shift,mean(\s*|\-)?shift
+Contrastive Loss,contrastive(\s*|\-)?los
+Data Integration,data(\s*|\-)?integration
+Grid Search,grid(\s*|\-)?search
+N-Gram Features,n(\s*|\-)?gram(\s*|\-)?feature
+Binning,binning
+Softmax,softmax
+SMOTE (Synthetic Minority Over-sampling Technique),smote(\s*|\-)?\(synthetic(\s*|\-)?minority(\s*|\-)?over(\s*|\-)?sampling(\s*|\-)?technique\)
+Lemmatization,lemmatization
+Model Optimization,model(\s*|\-)?optimization
+Leave-One-Out,leave(\s*|\-)?one(\s*|\-)?out
+Group Normalization,group(\s*|\-)?normalization
+Fixed Recency,fixed(\s*|\-)?recency
+Momentum-Based,momentum(\s*|\-)?based
+Encoder,encoder
+Noise Injection,noise(\s*|\-)?injection
+Recurrent Neural Network,recurrent(\s*|\-)?neural(\s*|\-)?network
+Reinforcement Learning From Human Feedback,reinforcement(\s*|\-)?learning(\s*|\-)?from(\s*|\-)?human(\s*|\-)?feedback
+Precision-Recall Curve,precision(\s*|\-)?recall(\s*|\-)?curve
+Early Stopping,early(\s*|\-)?stopping
+Gated Recurrent Unit,gated(\s*|\-)?recurrent(\s*|\-)?unit
+Generalization Curve,generalization(\s*|\-)?curve
+Factor Analysis,factor(\s*|\-)?analysi
+LSTM Layer,lstm(\s*|\-)?layer
+Kullback-Leibler Divergence,kullback(\s*|\-)?leibler(\s*|\-)?divergence
+Instance Normalization,instance(\s*|\-)?normalization
+Color Space Conversion,color(\s*|\-)?space(\s*|\-)?conversion
+Low-Rank Adaptability,low(\s*|\-)?rank(\s*|\-)?adaptability
+Self-Organizing Map,self(\s*|\-)?organizing(\s*|\-)?map
+Gini Coefficient,gini(\s*|\-)?coefficient
+Value-Based Methods,value(\s*|\-)?based(\s*|\-)?method
+Loss Function,loss(\s*|\-)?function
+Class Weighting,class(\s*|\-)?weighting
+Few-Shot Prompting,few(\s*|\-)?shot(\s*|\-)?prompting
+Text Features,text(\s*|\-)?feature
+HOG (Histogram of Oriented Gradients),hog(\s*|\-)?\(histogram(\s*|\-)?of(\s*|\-)?oriented(\s*|\-)?gradients\)
+Fuzzy Clustering,fuzzy(\s*|\-)?clustering
+Gradient Checkpointing,gradient(\s*|\-)?checkpointing
+One-Hot Encoding,one(\s*|\-)?hot(\s*|\-)?encoding
+Output Layer - Classification,output(\s*|\-)?layer(\s*|\-)?(\s*|\-)?(\s*|\-)?classification
+Learning Automata,learning(\s*|\-)?automata
+DCGAN,dcgan
+Self-Attention Layer,self(\s*|\-)?attention(\s*|\-)?layer
+K-Nearest Neighbor,k(\s*|\-)?nearest(\s*|\-)?neighbor
+Adamw,adamw
+Outlier Detection And Treatment,outlier(\s*|\-)?detection(\s*|\-)?and(\s*|\-)?treatment
+Image Classification,image(\s*|\-)?classification
+Principal Component Regression,principal(\s*|\-)?component(\s*|\-)?regression
+Hellinger Distance,hellinger(\s*|\-)?distance
+Classification Loss,classification(\s*|\-)?los
+Transformer Networks,transformer(\s*|\-)?network
+Mean Absolute Scaled Error,mean(\s*|\-)?absolute(\s*|\-)?scaled(\s*|\-)?error
+Data Transformation,data(\s*|\-)?transformation
+Conceptual Clustering,conceptual(\s*|\-)?clustering
+Time Stretching,time(\s*|\-)?stretching
+Count Metrics,count(\s*|\-)?metric
+Random Forest,random(\s*|\-)?forest
+Learning Rate Schedule,learning(\s*|\-)?rate(\s*|\-)?schedule
+Deletion,deletion
+Inductive Bias,inductive(\s*|\-)?bia
+Active Learning,active(\s*|\-)?learning
+Algorithm-Level Methods,algorithm(\s*|\-)?level(\s*|\-)?method
+Hierarchical Hidden Markov Model,hierarchical(\s*|\-)?hidden(\s*|\-)?markov(\s*|\-)?model
+Bootstrap Aggregating,bootstrap(\s*|\-)?aggregating
+Canonical Correlation Analysis,canonical(\s*|\-)?correlation(\s*|\-)?analysi
+Lazy Learning,lazy(\s*|\-)?learning
+OPTICS algorithm,optics(\s*|\-)?algorithm
+Re-Ranking,re(\s*|\-)?ranking
+Exponential Decay,exponential(\s*|\-)?decay
+Distribution And Similarity Metrics,distribution(\s*|\-)?and(\s*|\-)?similarity(\s*|\-)?metric
+Denoising Diffusion Probabilistic Models,denoising(\s*|\-)?diffusion(\s*|\-)?probabilistic(\s*|\-)?model
+Motion Vectors,motion(\s*|\-)?vector
+Long To Wide Format,long(\s*|\-)?to(\s*|\-)?wide(\s*|\-)?format
+Zero Crossing Rate,zero(\s*|\-)?crossing(\s*|\-)?rate
+Adjusted R-Squared,adjusted(\s*|\-)?r(\s*|\-)?squared
+Common Challenges,common(\s*|\-)?challenge
+Data Indexing,data(\s*|\-)?indexing
+Data Chunking,data(\s*|\-)?chunking
+Local Outlier Factor,local(\s*|\-)?outlier(\s*|\-)?factor
+Quadratic Classifiers,quadratic(\s*|\-)?classifier
+Random Initialization,random(\s*|\-)?initialization
+Learning Vector Quantization,learning(\s*|\-)?vector(\s*|\-)?quantization
+Chi-Squared,chi(\s*|\-)?squared
+Statistical Methods,statistical(\s*|\-)?method
+(Head) Output Layer,\(head\)(\s*|\-)?output(\s*|\-)?layer
+Bellman Equation,bellman(\s*|\-)?equation
+Filter Methods,filter(\s*|\-)?method
+Graph Neural Networks,graph(\s*|\-)?neural(\s*|\-)?network
+Text Classification,text(\s*|\-)?classification
+Random Oversampling,random(\s*|\-)?oversampling
+Global Pooling,global(\s*|\-)?pooling
+F1 Score,f1(\s*|\-)?score
+Spectral Clustering,spectral(\s*|\-)?clustering
+Audio Features,audio(\s*|\-)?feature
+BIRCH,birch
+He Initialization,he(\s*|\-)?initialization
+Multinomial Naive Bayes,multinomial(\s*|\-)?naive(\s*|\-)?baye
+Instance-Based Learning,instance(\s*|\-)?based(\s*|\-)?learning
+GRU Layer,gru(\s*|\-)?layer
+Chi-Squared Test,chi(\s*|\-)?squared(\s*|\-)?test
+Layer Configuration,layer(\s*|\-)?configuration
+Cosine Annealing,cosine(\s*|\-)?annealing
+Binary Cross-Entropy,binary(\s*|\-)?cross(\s*|\-)?entropy
+Top P,top(\s*|\-)?p
+Averaged One-Dependence Estimators,averaged(\s*|\-)?one(\s*|\-)?dependence(\s*|\-)?estimator
+Feature Selection,feature(\s*|\-)?selection
+Data Augmentation,data(\s*|\-)?augmentation
+Batch Size,batch(\s*|\-)?size
+ANOVA,anova
+Gradient Descent,gradient(\s*|\-)?descent
+SIFT (Scale-Invariant Feature Transform),sift(\s*|\-)?\(scale(\s*|\-)?invariant(\s*|\-)?feature(\s*|\-)?transform\)
+Regularization Techniques,regularization(\s*|\-)?technique
+METEOR Score,meteor(\s*|\-)?score
+Interaction Features,interaction(\s*|\-)?feature
+Gradient Clipping,gradient(\s*|\-)?clipping
+Lowercasing,lowercasing
+Fused Lasso,fused(\s*|\-)?lasso
+Merging Datasets,merging(\s*|\-)?dataset
+Stratified K-Fold,stratified(\s*|\-)?k(\s*|\-)?fold
+Mean/Median Imputation,mean/median(\s*|\-)?imputation
+Ridge Regression,ridge(\s*|\-)?regression
+Imputation,imputation
+Fixed Schedule,fixed(\s*|\-)?schedule
+Wide To Long Format,wide(\s*|\-)?to(\s*|\-)?long(\s*|\-)?format
+Audio Preprocessing,audio(\s*|\-)?preprocessing
+QLORA,qlora
+Memory Management,memory(\s*|\-)?management
+Chroma Features,chroma(\s*|\-)?feature
+Precision And Accuracy Management,precision(\s*|\-)?and(\s*|\-)?accuracy(\s*|\-)?management
+Domain-Specific Features,domain(\s*|\-)?specific(\s*|\-)?feature
+8-Bit Optimizers,8(\s*|\-)?bit(\s*|\-)?optimizer
+Latent Dirichlet Allocation,latent(\s*|\-)?dirichlet(\s*|\-)?allocation
+Anomaly Detection,anomaly(\s*|\-)?detection
+t-distributed stochastic neighbor embedding (t-SNE),t(\s*|\-)?distributed(\s*|\-)?stochastic(\s*|\-)?neighbor(\s*|\-)?embedding(\s*|\-)?\(t(\s*|\-)?sne\)
+Adaboost,adaboost
+Sammon Mapping,sammon(\s*|\-)?mapping
+Policy Gradient Methods,policy(\s*|\-)?gradient(\s*|\-)?method
+Noise Reduction,noise(\s*|\-)?reduction
+Feature Normalization,feature(\s*|\-)?normalization
+Classification Metrics,classification(\s*|\-)?metric
+RUSBoost,rusboost
+SepCNN,sepcnn
+Co-Training,co(\s*|\-)?training
+Frame Extraction,frame(\s*|\-)?extraction
+Feature Creation,feature(\s*|\-)?creation
+Categorical Cross-Entropy,categorical(\s*|\-)?cross(\s*|\-)?entropy
+Style Transfer,style(\s*|\-)?transfer
+Random Forest Importance,random(\s*|\-)?forest(\s*|\-)?importance
+Class-Imbalanced Datasets,class(\s*|\-)?imbalanced(\s*|\-)?dataset
+Pruning,pruning
+Tokenisation,tokenisation
+Linear Regression,linear(\s*|\-)?regression
+Weight Pruning,weight(\s*|\-)?pruning
+Feature Engineering,feature(\s*|\-)?engineering
+Embedding Layer,embedding(\s*|\-)?layer
+Stacked Generalization,stacked(\s*|\-)?generalization
+Underfitting,underfitting
+Transposing,transposing
