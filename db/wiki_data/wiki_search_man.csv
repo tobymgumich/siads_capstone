@@ -1,9 +1,79 @@
-id,tax_term,search_term
-1,Least Absolute Shrinkage and Selection Operator (LASSO),Lasso (statistics)
-2,Temperature,Temperature (softmax_function)
-3,Meta-learning,Meta-learning (computer science)
-4,Rectified Linear Unit (ReLU),Rectified Linear Unit
-5,t-distributed stochastic neighbor embedding (t-SNE),t-distributed stochastic neighbor embedding
-6,Gradient Descent Algorithms,Gradient Descent
-8,LLM Agents,Intelligent Agent
-9,Hyperparameter Selection,Hyperparameter optimization
+id,tax_term,title,path
+1,Least Absolute Shrinkage and Selection Operator (LASSO),Lasso (statistics),Lasso (statistics)
+2,Temperature,Temperature (softmax function),Temperature (softmax_function)
+3,Meta-learning,Meta-learning (computer science),Meta-learning (computer science)
+5,t-distributed stochastic neighbor embedding (t-SNE),t-distributed stochastic neighbor embedding,t-distributed stochastic neighbor embedding
+6,Gradient Descent Algorithms,Gradient Descent,Gradient Descent
+8,LLM Agents,Intelligent Agent,Intelligent Agent
+9,Hyperparameter Selection,Hyperparameter optimization,Hyperparameter optimization
+10,Adjusted R-squared,Coefficient of determination#Adjusted R2,Coefficient_of_determination#Adjusted_R2
+11,BLEU Score,BLEU,BLEU
+12,Bag of Words,Bag-of-words model,Bag-of-words_model
+13,Brier Score,Brier score,Brier_score
+14,Character N-grams,N-gram,N-gram
+15,Chi-squared Test,Chi-squared test,Chi-squared_test
+16,Convolutional Layer,Convolutional neural network#Convolutional layer,Convolutional_neural_network#Convolutional_layer
+17,Data Chunking,Chunk (information),Chunk_(information)
+18,Data Indexing,Search engine indexing,Search_engine_indexing
+19,Data Preparation,Data preparation,Data_preparation
+20,Data Reduction,Data reduction,Data_reduction
+21,Data Retrieval,Data retrieval,Data_retrieval
+22,Data Transformation,Data transformation (computing),Data_transformation_(computing)
+23,Deduplication,Data deduplication,Data_deduplication
+24,Distillation,Knowledge distillation,Knowledge_distillation
+25,Dropout,Dilution (neural networks)#dropout,Dilution_(neural_networks)#dropout
+26,Early Stopping,Early stopping,Early_stopping
+27,Encoder-Decoder,Transformer (deep learning architecture)#Encoder-decoder (overview),Transformer_(deep_learning_architecture)#Encoder-decoder_(overview)
+28,Exponential Decay,Exponential decay,Exponential_decay
+29,FP-growth algorithm,Association rule learning#FP-growth algorithm,Association_rule_learning#FP-growth_algorithm
+30,ELMo (embeddings from language model),ELMo,ELMo
+31,Feature Transformation,Data transformation (computing),Data_transformation_(computing)
+33,Fused Lasso,Lasso (statistics)#Fused lasso,Lasso_(statistics)#Fused_lasso
+35,Gaussian Noise,Gaussian noise,Gaussian_noise
+36,Gini Coefficient,Gini coefficient,Gini_coefficient
+37,Group Lasso,,
+38,Grid Search,Hyperparameter optimization#Grid search,Hyperparameter_optimization#Grid_search
+39,Hellinger Distance,Hellinger distance,Hellinger_distance
+40,Fréchet Inception Distance,Fréchet inception distance,Fréchet_inception_distance
+41,HOG (Histogram of Oriented Gradients),Histogram of oriented gradients,Histogram_of_oriented_gradients
+42,Imputation,Imputation (statistics),Imputation_(statistics)
+43,Inception Score,Inception score,Inception_score
+44,Kullback-Leibler Divergence,Kullback–Leibler divergence,Kullback–Leibler_divergence
+45,Kolmogorov-Smirnov Test,Kolmogorov–Smirnov test,Kolmogorov–Smirnov_test
+46,Lemmatization,Lemmatization,Lemmatization
+47,Log Loss,Loss functions for classification#Logistic loss,Loss_functions_for_classification#Logistic_loss
+48,Hinge Loss,Hinge Loss,Hinge_Loss
+49,METEOR Score,METEOR,METEOR
+50,Mahalanobis Distance,Mahalanobis distance,Mahalanobis_distance
+51,Mean Absolute Error,Mean absolute error,Mean_absolute_error
+52,Mel-frequency Cepstral Coefficients (MFCC),Mel-frequency cepstrum,Mel-frequency_cepstrum
+53,Multi-dimensional scaling (MDS),Multidimensional scaling,Multidimensional_scaling
+54,Normalization,Canonical form#Computing,Canonical_form#Computing
+55,Object Detection,Object detection,Object_detection
+56,One-Hot Encoding,One-hot,One-hot
+57,Pitch Shifting,Pitch shifting,Pitch_shifting
+58,Quasi-Newton Methods,Quasi-Newton method,Quasi-Newton_method
+59,ROUGE Score,ROUGE (metric),ROUGE_(metric)
+60,Rectified Linear Unit (ReLU),Rectifier (neural networks),Rectifier_(neural_networks)
+61,Regression Imputation,Imputation (statistics)#Regression,Imputation_(statistics)#Regression
+62,Regular Expressions,Regular expression,Regular_expression
+63,ResNet,Residual neural network,Residual_neural_network
+64,Resampling,Resampling (statistics),Resampling_(statistics)
+65,Retrieval augmented generation (RAG),Retrieval-augmented generation,Retrieval-augmented_generation
+66,SMOTE (Synthetic Minority Over-sampling Technique),Oversampling and undersampling in data analysis#SMOTE,Oversampling_and_undersampling_in_data_analysis#SMOTE
+67,Random Undersampling,Oversampling and undersampling in data analysis#Random Undersampling,Oversampling_and_undersampling_in_data_analysis#Random_Undersampling
+68,ADASYN (Adaptive Synthetic),Oversampling and undersampling in data analysis#Adasyn,Oversampling_and_undersampling_in_data_analysis#Adasyn
+69,Weight Initialization,Vanishing gradient problem#Weight initialization,Vanishing_gradient_problem#Weight_initialization
+70,Word N-grams,Word n-gram language model,Word_n-gram_language_model
+71,Vector Databases,Vector database,Vector_database
+72,Uniform Distribution,Discrete uniform distribution,Discrete_uniform_distribution
+73,Transposing,Transpose,Transpose
+74,Stop Word Removal,Stop word,Stop_word
+75,Statistical Methods,Statistics#Methods,Statistics#Methods
+76,Silhouette Score,Silhouette (clustering),Silhouette_(clustering)
+77,Spectral Centroid,Spectral centroid,Spectral_centroid
+78,Self-Attention Layer,Attention (machine learning),Attention_(machine_learning)
+79,Shot Boundary Detection,Shot transition detection,Shot_transition_detection
+80,Stemming,Stemming,Stemming
+81,Variational Lower Bound,Evidence lower bound,Evidence_lower_bound
+86,Information Retrieval Metrics,Evaluation measures (information retrieval),Evaluation_measures_(information_retrieval)

@@ -1,39 +1,38 @@
 id,level_1,level_2,level_3,level_4,level_5
-1,Model hyperparameters,Regularization,,,
-2,Model hyperparameters,Regularization,Parameter Norm Penalties,,
-3,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,
-4,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Least Absolute Shrinkage and Selection Operator (LASSO)
-5,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Sparse Coding
-6,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,L1-regularized Logistic Regression
-7,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Least Angle Regression
-8,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Group Lasso
-9,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Fused Lasso
-10,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,Graphical Lasso
-11,Model hyperparameters,Regularization,Parameter Norm Penalties,L1 Regularization,L1-regularized SVM
-12,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,
-13,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,Ridge Regression
-14,Model hyperparameters,Regularization,Parameter Norm Penalties,L2 Regularization,Weight Decay
-15,Model hyperparameters,Regularization,Parameter Norm Penalties,Elastic Net,
-16,Model hyperparameters,Regularization,Noise Injection,,
-17,Model hyperparameters,Regularization,Noise Injection,Dropout,
-18,Model hyperparameters,Regularization,Noise Injection,Data Augmentation,
-19,Model hyperparameters,Regularization,Noise Injection,Gaussian Noise,
-20,Model hyperparameters,Regularization,Early Stopping,,
-21,Model hyperparameters,Regularization,Ensemble Methods,,
-22,Model hyperparameters,Regularization,Ensemble Methods,Bootstrap aggregating,
-23,Model hyperparameters,Regularization,Ensemble Methods,Boosting,
-24,Model hyperparameters,Regularization,Ensemble Methods,Random Forest,
-25,Model hyperparameters,Regularization,Constraints,,
-26,Model hyperparameters,Regularization,Constraints,Max Norm Constraints,
-27,Model hyperparameters,Regularization,Data Augmentation,,
-28,Model hyperparameters,Regularization,Data Augmentation,Image Transformations,
-29,Model hyperparameters,Regularization,Data Augmentation,Text Augmentation,
-30,Model hyperparameters,Regularization,Pruning,,
-31,Model hyperparameters,Regularization,Pruning,Weight Pruning,
-32,Model hyperparameters,Regularization,Pruning,Unit Pruning,
-33,Model hyperparameters,Regularization,Batch Normalization,,
-34,Model hyperparameters,Regularization,Layer Normalization,,
-35,Model hyperparameters,Regularization,Gradient Clipping,,
+1,Model hyperparameters,Regularization Techniques,,,
+2,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,,
+3,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),
+4,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Least Absolute Shrinkage and Selection Operator (LASSO)
+5,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Sparse Coding
+6,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),L1-regularized Logistic Regression
+7,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Least Angle Regression
+8,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Group Lasso
+9,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Fused Lasso
+10,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),Graphical Lasso
+11,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Least Absolute Shrinkage and Selection Operator (LASSO),L1-regularized SVM
+12,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Ridge Regression,
+14,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Ridge Regression,Weight Decay
+15,Model hyperparameters,Regularization Techniques,Parameter Norm Penalties,Elastic Net,
+16,Model hyperparameters,Regularization Techniques,Noise Injection,,
+17,Model hyperparameters,Regularization Techniques,Noise Injection,Dropout,
+18,Model hyperparameters,Regularization Techniques,Noise Injection,Data Augmentation,
+19,Model hyperparameters,Regularization Techniques,Noise Injection,Gaussian Noise,
+20,Model hyperparameters,Regularization Techniques,Early Stopping,,
+21,Model hyperparameters,Regularization Techniques,Ensemble Methods,,
+22,Model hyperparameters,Regularization Techniques,Ensemble Methods,Bootstrap aggregating,
+23,Model hyperparameters,Regularization Techniques,Ensemble Methods,Boosting,
+24,Model hyperparameters,Regularization Techniques,Ensemble Methods,Random Forest,
+25,Model hyperparameters,Regularization Techniques,Constraints,,
+26,Model hyperparameters,Regularization Techniques,Constraints,Max Norm Constraints,
+27,Model hyperparameters,Regularization Techniques,Data Augmentation,,
+28,Model hyperparameters,Regularization Techniques,Data Augmentation,Image Transformations,
+29,Model hyperparameters,Regularization Techniques,Data Augmentation,Text Augmentation,
+30,Model hyperparameters,Regularization Techniques,Pruning,,
+31,Model hyperparameters,Regularization Techniques,Pruning,Weight Pruning,
+32,Model hyperparameters,Regularization Techniques,Pruning,Unit Pruning,
+33,Model hyperparameters,Regularization Techniques,Batch Normalization,,
+34,Model hyperparameters,Regularization Techniques,Layer Normalization,,
+35,Model hyperparameters,Regularization Techniques,Gradient Clipping,,
 36,Model hyperparameters,Parameter Optimizer,,,
 37,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,,
 38,Model hyperparameters,Parameter Optimizer,Gradient Descent Algorithms,Fixed Learning Rate,
@@ -80,7 +79,7 @@ id,level_1,level_2,level_3,level_4,level_5
 121,Model hyperparameters,Loss Function,,,
 122,Model hyperparameters,Loss Function,Regression Loss,,
 123,Model hyperparameters,Loss Function,Regression Loss,Mean Squared Error (MSE),
-124,Model hyperparameters,Loss Function,Regression Loss,Mean Absolute Error,
+124,Model hyperparameters,Loss Function,Regression Loss,Mean Absolute Error (MAE),
 125,Model hyperparameters,Number of Epochs,,,
 126,Model hyperparameters,Batch Size,,,
 127,Model hyperparameters,Learning Rate,,,

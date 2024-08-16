@@ -43,7 +43,7 @@ id,level_1,level_2,level_3,level_4,level_5
 47,Model Architecture Design,Layer Configuration,Regularization Layers,Dropout,
 48,Model Architecture Design,Layer Configuration,Regularization Layers,Spatial Dropout,
 49,Model Architecture Design,Layer Configuration,Transforming Layers,,
-50,Model Architecture Design,Layer Configuration,Transforming Layers,Flatten,
+50,Model Architecture Design,Layer Configuration,Transforming Layers,Flattening,
 51,Model Architecture Design,Layer Configuration,Transforming Layers,Reshape,
 52,Model Architecture Design,Layer Configuration,Transforming Layers,Concatenate,
 53,Model Architecture Design,,,,

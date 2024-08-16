@@ -121,7 +121,6 @@ id,level_1,level_2,level_3,level_4,level_5
 122,ML Methods,Deep learning,Generative models,Generative Adversarial Network (GAN),Style transfer
 123,ML Methods,Deep learning,Transformer Networks,,
 124,ML Methods,Deep learning,Autoencoder,,
-125,ML Methods,Deep learning,Diffusion Model,,
 126,ML Methods,Self-Supervised Learning,,,
 127,ML Methods,Self-Supervised Learning,Contrastive Learning Methods,,
 128,ML Methods,Self-Supervised Learning,Masked Language Models (MLM),,
@@ -136,11 +135,11 @@ id,level_1,level_2,level_3,level_4,level_5
 138,ML Methods,Unsupervised Learning,Cluster analysis,Spectral Clustering,
 139,ML Methods,Deep learning,Convolutional neural network (CNN),Inception,
 140,ML Methods,Deep learning,Convolutional neural network (CNN),ResNet,
-141,ML Methods,Deep learning,Generative models,Generative Diffusion Models,Denoising Diffusion Probabilistic Models (DDPM)
-142,ML Methods,Deep learning,Generative models,Generative Diffusion Models,Latent Diffusion Models
-143,ML Methods,Deep learning,Generative models,Generative Diffusion Models,Score-Based Generative Models
+141,ML Methods,Deep learning,Generative models,Diffusion Models,Denoising Diffusion Probabilistic Models (DDPM)
+142,ML Methods,Deep learning,Generative models,Diffusion Models,Latent Diffusion Models
+143,ML Methods,Deep learning,Generative models,Diffusion Models,Score-Based Generative Models
 144,ML Methods,Deep learning,Convolutional neural network (CNN),SepCNN,
-145,ML Methods,Deep learning,Generative models,Generative Diffusion Models,
+145,ML Methods,Deep learning,Generative models,Diffusion Models,
 146,ML Methods,Advanced Training Strategies,,,
 147,ML Methods,Advanced Training Strategies,Curriculum Learning,,
 148,ML Methods,Advanced Training Strategies,Multi-Task Learning,,
