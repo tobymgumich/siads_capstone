@@ -1,0 +1,259 @@
+term,redirect,wiki_title,wiki_path,redirect_path
+feature extraction,True,feature engineering,feature_engineering,feature_extraction
+cluster analysis,False,cluster analysis,cluster_analysis,
+sigmoid,False,sigmoid function,sigmoid_function,
+generative adversarial network,False,generative adversarial network,generative_adversarial_network,
+least-angle regression,False,least-angle regression,least-angle_regression,
+part-of-speech tagging,False,part-of-speech tagging,part-of-speech_tagging,
+false positive,True,false positives and false negatives,false_positives_and_false_negatives,false_positive
+gaussian mixture models,True,mixture model,mixture_model#gaussian_mixture_model,gaussian_mixture_model
+retrieval augmented generation,False,retrieval-augmented generation,retrieval-augmented_generation,
+inductive logic programming,False,inductive logic programming,inductive_logic_programming,
+peak signal-to-noise ratio,False,peak signal-to-noise ratio,peak_signal-to-noise_ratio,
+embeddings,False,word embedding,word_embedding,
+k-means clustering,False,k-means clustering,k-means_clustering,
+fine-tuning,False,fine-tuning (deep learning),fine-tuning_(deep_learning),
+accuracy,False,accuracy and precision,accuracy_and_precision#in_binary_classification,
+recall,True,precision and recall,precision_and_recall,recall_(information_retrieval)
+latent diffusion models,False,diffusion model,diffusion_model,
+apriori algorithm,False,apriori algorithm,apriori_algorithm,
+bayesian optimization,False,bayesian optimization,bayesian_optimization,
+non-negative matrix factorization,False,non-negative matrix factorization,non-negative_matrix_factorization,
+q-learning,False,q-learning,q-learning,
+cross-validation,False,cross-validation (statistics),cross-validation_(statistics),
+confusion matrix,False,confusion matrix,confusion_matrix,
+newton's method,False,newton's method,newton%27s_method,
+eclat algorithm,True,association rule learning,association_rule_learning#eclat_algorithm,eclat_algorithm
+topic modeling,True,topic model,topic_model,topic_modeling
+boltzmann machines,False,boltzmann machine,boltzmann_machine,
+hierarchical clustering,False,hierarchical clustering,hierarchical_clustering,
+k-medians,True,k-medians clustering,k-medians_clustering,k-medians
+probably approximately correct learning,False,probably approximately correct learning,probably_approximately_correct_learning,
+sparse coding,True,neural coding,neural_coding#sparse_coding,sparse_coding
+convolutional neural network,False,convolutional neural network,convolutional_neural_network,
+case-based reasoning,False,case-based reasoning,case-based_reasoning,
+concept drift,False,concept drift,concept_drift,
+gradient boosting,False,gradient boosting,gradient_boosting,
+adagrad,False,stochastic gradient descent,stochastic_gradient_descent#adagrad,
+synthetic data,False,synthetic data,synthetic_data,
+bayesian network,False,bayesian network,bayesian_network,
+mean squared error,True,mean squared error,mean_squared_error,mean-squared_error
+principal component analysis,False,principal component analysis,principal_component_analysis,
+hidden markov models,True,hidden markov model,hidden_markov_model,hidden_markov_model
+named-entity recognition,False,named-entity recognition,named-entity_recognition,
+optical flow,False,optical flow,optical_flow,
+autoencoder,False,autoencoder,autoencoder,
+association rule learning,False,association rule learning,association_rule_learning,
+ripple down rules,True,ripple-down rules,ripple-down_rules,ripple_down_rules
+regression analysis,False,regression analysis,regression_analysis,
+max pooling,True,convolutional neural network,convolutional_neural_network#pooling_layer,max_pooling
+stochastic gradient descent,False,stochastic gradient descent,stochastic_gradient_descent,
+gaussian process regression,True,kriging,kriging,gaussian_process_regression
+gradient boosted decision tree,True,gradient boosting,gradient_boosting#gradient_tree_boosting,gradient_boosted_decision_tree
+multi-class classification,False,multiclass classification,multiclass_classification,
+transfer learning,False,transfer learning,transfer_learning,
+binary classification,False,binary classification,binary_classification,
+multivariate adaptive regression splines,False,multivariate adaptive regression spline,multivariate_adaptive_regression_spline,
+scaling,False,scaling (geometry),scaling_(geometry),
+hierarchical classifier,True,hierarchical classification,hierarchical_classification,hierarchical_classifier
+tanh,True,hyperbolic functions,hyperbolic_functions,hyperbolic_function#tanh
+root mean squared error,True,root mean square deviation,root_mean_square_deviation,root_mean_squared_error
+random search,False,random search,random_search,
+overfitting,False,overfitting,overfitting,
+self-supervised learning,False,self-supervised learning,self-supervised_learning,
+long short-term memory,False,long short-term memory,long_short-term_memory,
+unsupervised learning,False,unsupervised learning,unsupervised_learning,
+conditional random field,False,conditional random field,conditional_random_field,
+normal distribution,False,normal distribution,normal_distribution,
+linear discriminant analysis,False,linear discriminant analysis,linear_discriminant_analysis,
+temporal difference learning,False,temporal difference learning,temporal_difference_learning,
+ensemble methods,True,ensemble learning,ensemble_learning,ensemble_methods
+ordinal classification,True,level of measurement,level_of_measurement#ordinal_scale,ordinal_classification
+standardization,False,standardization,standardization,
+large language models,False,large language model,large_language_model,
+activation functions,False,activation function,activation_function,
+bayesian statistics,False,bayesian statistics,bayesian_statistics,
+logistic model tree,False,logistic model tree,logistic_model_tree,
+supervised learning,False,supervised learning,supervised_learning,
+constraints,False,constraint (mathematics),constraint_(mathematics),
+multi-dimensional scaling,False,multidimensional scaling,multidimensional_scaling,
+batch normalization,False,batch normalization,batch_normalization,
+single-linkage clustering,False,single-linkage clustering,single-linkage_clustering,
+deep learning,False,deep learning,deep_learning,
+metadata,False,metadata,metadata,
+feedforward neural network,False,feedforward neural network,feedforward_neural_network,
+analogical modeling,False,analogical modeling,analogical_modeling,
+learning rate,False,learning rate,learning_rate,
+pooling layers,False,convolutional neural network,convolutional_neural_network#pooling_layers,
+precision,False,precision (computer science),precision_(computer_science),
+edge detection,False,edge detection,edge_detection,
+group method of data handling,False,group method of data handling,group_method_of_data_handling,
+logistic regression,False,logistic regression,logistic_regression,
+speech recognition,False,speech recognition,speech_recognition,
+q-function,False,q-function,q-function,
+dbscan,True,dbscan,dbscan,dbscan
+transduction,False,transduction (machine learning),transduction_(machine_learning),
+inception,False,inceptionv3,inceptionv3,
+linear classifier,False,linear classifier,linear_classifier,
+time series prediction,True,time series,time_series,time_series_prediction
+naive bayes,True,naive bayes classifier,naive_bayes_classifier,naive_bayes
+word2vec,False,word2vec,word2vec,
+adaptive learning rate,True,learning rate,learning_rate#adaptive_learning_rate,adaptive_learning_rate
+ensemble averaging,True,ensemble averaging (machine learning),ensemble_averaging_(machine_learning),ensemble_averaging
+elastic net,True,elastic map,elastic_map,elastic_net
+machine translation,False,machine translation,machine_translation,
+weight decay,True,ridge regression,ridge_regression#tikhonov_regularization,weight_decay
+sampling,False,sampling (statistics),sampling_(statistics),
+semi-supervised learning,True,weak supervision,weak_supervision,semi-supervised_learning
+decoder,False,binary decoder,binary_decoder,
+support vector machines,True,support vector machine,support_vector_machine,support-vector_machine
+artificial neural network,True,neural network (machine learning),neural_network_(machine_learning),artificial_neural_network
+prompt engineering,False,prompt engineering,prompt_engineering,
+curriculum learning,False,curriculum learning,curriculum_learning,
+ordinary least squares regression,True,ordinary least squares,ordinary_least_squares,ordinary_least_squares_regression
+chain-of-thought prompting,True,prompt engineering,prompt_engineering#chain-of-thought,chain-of-thought_prompting
+stepwise regression,False,stepwise regression,stepwise_regression,
+multi-task learning,False,multi-task learning,multi-task_learning,
+neural architecture search,False,neural architecture search,neural_architecture_search,
+perplexity,False,perplexity,perplexity,
+projection pursuit,False,projection pursuit,projection_pursuit,
+deep belief networks,False,deep belief network,deep_belief_network,
+data cleaning,True,data cleansing,data_cleansing,data_cleaning
+partial least squares regression,False,partial least squares regression,partial_least_squares_regression,
+context window,True,large language model,"large_language_model#prompt_engineering,_attention_mechanism,_and_context_window",context_window
+rmsprop,False,stochastic gradient descent,stochastic_gradient_descent#rmsprop,
+vanishing gradient problem,False,vanishing gradient problem,vanishing_gradient_problem,
+boosting,False,boosting (machine learning),boosting_(machine_learning),
+dimensionality reduction,False,dimensionality reduction,dimensionality_reduction,
+true negative,True,false positives and false negatives,false_positives_and_false_negatives#true_negative,true_negative
+matthews correlation coefficient,True,phi coefficient,phi_coefficient,matthews_correlation_coefficient
+reinforcement learning,False,reinforcement learning,reinforcement_learning,
+pattern recognition,False,pattern recognition,pattern_recognition,
+mean reciprocal rank,False,mean reciprocal rank,mean_reciprocal_rank,
+quantization,False,quantization (signal processing),quantization_(signal_processing),
+generative models,False,generative model,generative_model,
+false negative,True,false positives and false negatives,false_positives_and_false_negatives#false_negative_error,false_negative
+bhattacharyya distance,False,bhattacharyya distance,bhattacharyya_distance,
+cohen's kappa,False,cohen's kappa,cohen%27s_kappa,
+adam,False,stochastic gradient descent,stochastic_gradient_descent#adam,
+jaccard index,False,jaccard index,jaccard_index,
+independent component analysis,False,independent component analysis,independent_component_analysis,
+huber loss,False,huber loss,huber_loss,
+expectation-maximization algorithm,True,expectation–maximization algorithm,expectation%e2%80%93maximization_algorithm,expectation-maximization_algorithm
+mean-shift,False,mean shift,mean_shift,
+data integration,False,data integration,data_integration,
+softmax,True,softmax function,softmax_function,softmax
+leave-one-out,True,cross-validation (statistics),cross-validation_(statistics)#leave-one-out_cross-validation,leave-one-out_cross-validation
+recurrent neural network,False,recurrent neural network,recurrent_neural_network,
+reinforcement learning from human feedback,False,reinforcement learning from human feedback,reinforcement_learning_from_human_feedback,
+gated recurrent unit,False,gated recurrent unit,gated_recurrent_unit,
+factor analysis,False,factor analysis,factor_analysis,
+self-organizing map,False,self-organizing map,self-organizing_map,
+loss function,False,loss function,loss_function,
+fuzzy clustering,False,fuzzy clustering,fuzzy_clustering,
+learning automata,True,learning automaton,learning_automaton,learning_automata
+k-nearest neighbor,True,k-nearest neighbors algorithm,k-nearest_neighbors_algorithm,k-nearest_neighbor_algorithm
+principal component regression,False,principal component regression,principal_component_regression,
+conceptual clustering,False,conceptual clustering,conceptual_clustering,
+random forest,False,random forest,random_forest,
+inductive bias,False,inductive bias,inductive_bias,
+active learning,False,active learning (machine learning),active_learning_(machine_learning),
+hierarchical hidden markov model,True,hierarchical hidden markov model,hierarchical_hidden_markov_model,hierarchical_hidden_markov_model
+bootstrap aggregating,False,bootstrap aggregating,bootstrap_aggregating,
+canonical correlation analysis,True,canonical correlation,canonical_correlation,canonical_correlation_analysis
+lazy learning,False,lazy learning,lazy_learning,
+local outlier factor,False,local outlier factor,local_outlier_factor,
+quadratic classifiers,False,quadratic classifier,quadratic_classifier,
+learning vector quantization,False,learning vector quantization,learning_vector_quantization,
+chi-squared,False,chi-squared distribution,chi-squared_distribution,
+bellman equation,False,bellman equation,bellman_equation,
+graph neural networks,False,graph neural network,graph_neural_network,
+text classification,False,document classification,document_classification,
+f1 score,True,f-score,f-score,f1_score
+spectral clustering,False,spectral clustering,spectral_clustering,
+birch,False,birch,birch,
+instance-based learning,False,instance-based learning,instance-based_learning,
+averaged one-dependence estimators,False,averaged one-dependence estimators,averaged_one-dependence_estimators,
+feature selection,False,feature selection,feature_selection,
+data augmentation,False,data augmentation,data_augmentation,
+anova,True,analysis of variance,analysis_of_variance,anova
+gradient descent,False,gradient descent,gradient_descent,
+ridge regression,False,ridge regression,ridge_regression,
+latent dirichlet allocation,True,latent dirichlet allocation,latent_dirichlet_allocation,latent_dirichlet_allocation
+anomaly detection,False,anomaly detection,anomaly_detection,
+adaboost,True,adaboost,adaboost,adaboost
+sammon mapping,False,sammon mapping,sammon_mapping,
+noise reduction,False,noise reduction,noise_reduction,
+classification metrics,False,decision tree learning,decision_tree_learning,
+co-training,False,co-training,co-training,
+style transfer,True,neural style transfer,neural_style_transfer,style_transfer
+pruning,True,decision tree pruning,decision_tree_pruning,pruning_(algorithm)
+linear regression,False,linear regression,linear_regression,
+temperature,True,softmax function,softmax_function#temperature,temperature_(softmax_function)
+resnet,False,residual neural network,residual_neural_network,
+spectral centroid,False,spectral centroid,spectral_centroid,
+pitch shifting,False,pitch shifting,pitch_shifting,
+distillation,False,knowledge distillation,knowledge_distillation,
+regular expressions,False,regular expression,regular_expression,
+shot boundary detection,False,shot transition detection,shot_transition_detection,
+meta-learning,False,meta-learning (computer science),meta-learning_(computer_science),
+resampling,False,resampling (statistics),resampling_(statistics),
+fp-growth algorithm,False,association rule learning,association_rule_learning#fp-growth_algorithm,
+vector databases,False,vector database,vector_database,
+mahalanobis distance,False,mahalanobis distance,mahalanobis_distance,
+stop word removal,False,stop word,stop_word,
+mean absolute error,False,mean absolute error,mean_absolute_error,
+character n-grams,False,n-gram,n-gram,
+word n-grams,False,word n-gram language model,word_n-gram_language_model,
+regression imputation,False,imputation (statistics),imputation_(statistics)#regression,
+feature transformation,False,data transformation (computing),data_transformation_(computing),
+random undersampling,False,oversampling and undersampling in data analysis,oversampling_and_undersampling_in_data_analysis#random_undersampling,
+adasyn (adaptive synthetic),False,oversampling and undersampling in data analysis,oversampling_and_undersampling_in_data_analysis#adasyn,
+inception score,False,inception score,inception_score,
+bleu score,False,bleu,bleu,
+fréchet inception distance,False,fréchet inception distance,fréchet_inception_distance,
+data preparation,False,data preparation,data_preparation,
+log loss,False,loss functions for classification,loss_functions_for_classification#logistic_loss,
+convolutional layer,False,convolutional neural network,convolutional_neural_network#convolutional_layer,
+uniform distribution,False,discrete uniform distribution,discrete_uniform_distribution,
+hyperparameter selection,False,hyperparameter optimization,hyperparameter_optimization,
+data retrieval,False,data retrieval,data_retrieval,
+bag of words,False,bag-of-words model,bag-of-words_model,
+information retrieval metrics,False,evaluation measures (information retrieval),evaluation_measures_(information_retrieval),
+deduplication,False,data deduplication,data_deduplication,
+gaussian noise,False,gaussian noise,gaussian_noise,
+encoder-decoder,False,transformer (deep learning architecture),transformer_(deep_learning_architecture)#encoder-decoder_(overview),
+weight initialization,False,vanishing gradient problem,vanishing_gradient_problem#weight_initialization,
+variational lower bound,False,evidence lower bound,evidence_lower_bound,
+rectified linear unit (relu),False,rectifier (neural networks),rectifier_(neural_networks),
+stemming,False,stemming,stemming,
+llm agents,False,intelligent agent,intelligent_agent,
+object detection,False,object detection,object_detection,
+data reduction,False,data reduction,data_reduction,
+normalization,False,canonical form,canonical_form#computing,
+silhouette score,False,silhouette (clustering),silhouette_(clustering),
+hinge loss,False,hinge loss,hinge_loss,
+dropout,False,dilution (neural networks),dilution_(neural_networks)#dropout,
+elmo (embeddings from language model),False,elmo,elmo,
+brier score,False,brier score,brier_score,
+least absolute shrinkage and selection operator (lasso),False,lasso (statistics),lasso_(statistics),
+grid search,False,hyperparameter optimization,hyperparameter_optimization#grid_search,
+smote (synthetic minority over-sampling technique),False,oversampling and undersampling in data analysis,oversampling_and_undersampling_in_data_analysis#smote,
+lemmatization,False,lemmatization,lemmatization,
+early stopping,False,early stopping,early_stopping,
+gini coefficient,False,gini coefficient,gini_coefficient,
+hog (histogram of oriented gradients),False,histogram of oriented gradients,histogram_of_oriented_gradients,
+one-hot encoding,False,one-hot,one-hot,
+self-attention layer,False,attention (machine learning),attention_(machine_learning),
+hellinger distance,False,hellinger distance,hellinger_distance,
+exponential decay,False,exponential decay,exponential_decay,
+adjusted r-squared,False,coefficient of determination,coefficient_of_determination#adjusted_r2,
+data indexing,False,search engine indexing,search_engine_indexing,
+data chunking,False,chunk (information),chunk_(information),
+statistical methods,False,statistics,statistics#methods,
+chi-squared test,False,chi-squared test,chi-squared_test,
+meteor score,True,meteoroid,meteoroid#meteors,meteor
+fused lasso,False,lasso (statistics),lasso_(statistics)#fused_lasso,
+imputation,False,imputation (statistics),imputation_(statistics),
+t-distributed stochastic neighbor embedding (t-sne),False,t-distributed stochastic neighbor embedding,t-distributed_stochastic_neighbor_embedding,
+transposing,False,transpose,transpose,

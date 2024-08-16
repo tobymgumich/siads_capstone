@@ -1,0 +1,2367 @@
+{
+    "wiki_paths": {
+        "cluster_analysis": {
+            "wiki_title": "cluster analysis",
+            "ontology_terms": [
+                {
+                    "term": "cluster analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "sigmoid_function": {
+            "wiki_title": "sigmoid function",
+            "ontology_terms": [
+                {
+                    "term": "sigmoid",
+                    "redirect": false
+                }
+            ]
+        },
+        "generative_adversarial_network": {
+            "wiki_title": "generative adversarial network",
+            "ontology_terms": [
+                {
+                    "term": "generative adversarial network",
+                    "redirect": false
+                }
+            ]
+        },
+        "least-angle_regression": {
+            "wiki_title": "least-angle regression",
+            "ontology_terms": [
+                {
+                    "term": "least-angle regression",
+                    "redirect": false
+                },
+                {
+                    "term": "least angle regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "part-of-speech_tagging": {
+            "wiki_title": "part-of-speech tagging",
+            "ontology_terms": [
+                {
+                    "term": "part-of-speech tagging",
+                    "redirect": false
+                }
+            ]
+        },
+        "false_positives_and_false_negatives": {
+            "wiki_title": "false positives and false negatives",
+            "ontology_terms": [
+                {
+                    "term": "false positive",
+                    "redirect": true
+                }
+            ]
+        },
+        "mixture_model#gaussian_mixture_model": {
+            "wiki_title": "mixture model",
+            "ontology_terms": [
+                {
+                    "term": "gaussian mixture models",
+                    "redirect": true
+                }
+            ]
+        },
+        "retrieval-augmented_generation": {
+            "wiki_title": "retrieval-augmented generation",
+            "ontology_terms": [
+                {
+                    "term": "retrieval augmented generation",
+                    "redirect": false
+                }
+            ]
+        },
+        "inductive_logic_programming": {
+            "wiki_title": "inductive logic programming",
+            "ontology_terms": [
+                {
+                    "term": "inductive logic programming",
+                    "redirect": false
+                }
+            ]
+        },
+        "peak_signal-to-noise_ratio": {
+            "wiki_title": "peak signal-to-noise ratio",
+            "ontology_terms": [
+                {
+                    "term": "peak signal-to-noise ratio",
+                    "redirect": false
+                }
+            ]
+        },
+        "word_embedding": {
+            "wiki_title": "word embedding",
+            "ontology_terms": [
+                {
+                    "term": "embeddings",
+                    "redirect": false
+                },
+                {
+                    "term": "word embeddings",
+                    "redirect": false
+                }
+            ]
+        },
+        "k-means_clustering": {
+            "wiki_title": "k-means clustering",
+            "ontology_terms": [
+                {
+                    "term": "k-means clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "fine-tuning_(deep_learning)": {
+            "wiki_title": "fine-tuning (deep learning)",
+            "ontology_terms": [
+                {
+                    "term": "fine-tuning",
+                    "redirect": false
+                }
+            ]
+        },
+        "accuracy_and_precision#in_binary_classification": {
+            "wiki_title": "accuracy and precision",
+            "ontology_terms": [
+                {
+                    "term": "accuracy",
+                    "redirect": false
+                }
+            ]
+        },
+        "precision_and_recall": {
+            "wiki_title": "precision and recall",
+            "ontology_terms": [
+                {
+                    "term": "recall",
+                    "redirect": true
+                }
+            ]
+        },
+        "diffusion_model": {
+            "wiki_title": "diffusion model",
+            "ontology_terms": [
+                {
+                    "term": "latent diffusion models",
+                    "redirect": false
+                },
+                {
+                    "term": "diffusion models",
+                    "redirect": false
+                }
+            ]
+        },
+        "apriori_algorithm": {
+            "wiki_title": "apriori algorithm",
+            "ontology_terms": [
+                {
+                    "term": "apriori algorithm",
+                    "redirect": false
+                }
+            ]
+        },
+        "bayesian_optimization": {
+            "wiki_title": "bayesian optimization",
+            "ontology_terms": [
+                {
+                    "term": "bayesian optimization",
+                    "redirect": false
+                }
+            ]
+        },
+        "non-negative_matrix_factorization": {
+            "wiki_title": "non-negative matrix factorization",
+            "ontology_terms": [
+                {
+                    "term": "non-negative matrix factorization",
+                    "redirect": false
+                }
+            ]
+        },
+        "q-learning": {
+            "wiki_title": "q-learning",
+            "ontology_terms": [
+                {
+                    "term": "q-learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "cross-validation_(statistics)": {
+            "wiki_title": "cross-validation (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "cross-validation",
+                    "redirect": false
+                },
+                {
+                    "term": "k-fold",
+                    "redirect": false
+                }
+            ]
+        },
+        "confusion_matrix": {
+            "wiki_title": "confusion matrix",
+            "ontology_terms": [
+                {
+                    "term": "confusion matrix",
+                    "redirect": false
+                }
+            ]
+        },
+        "newton%27s_method": {
+            "wiki_title": "newton's method",
+            "ontology_terms": [
+                {
+                    "term": "newton's method",
+                    "redirect": false
+                }
+            ]
+        },
+        "association_rule_learning#eclat_algorithm": {
+            "wiki_title": "association rule learning",
+            "ontology_terms": [
+                {
+                    "term": "eclat algorithm",
+                    "redirect": true
+                }
+            ]
+        },
+        "topic_model": {
+            "wiki_title": "topic model",
+            "ontology_terms": [
+                {
+                    "term": "topic modeling",
+                    "redirect": true
+                }
+            ]
+        },
+        "boltzmann_machine": {
+            "wiki_title": "boltzmann machine",
+            "ontology_terms": [
+                {
+                    "term": "boltzmann machines",
+                    "redirect": false
+                }
+            ]
+        },
+        "hierarchical_clustering": {
+            "wiki_title": "hierarchical clustering",
+            "ontology_terms": [
+                {
+                    "term": "hierarchical clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "k-medians_clustering": {
+            "wiki_title": "k-medians clustering",
+            "ontology_terms": [
+                {
+                    "term": "k-medians",
+                    "redirect": true
+                }
+            ]
+        },
+        "probably_approximately_correct_learning": {
+            "wiki_title": "probably approximately correct learning",
+            "ontology_terms": [
+                {
+                    "term": "probably approximately correct learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "neural_coding#sparse_coding": {
+            "wiki_title": "neural coding",
+            "ontology_terms": [
+                {
+                    "term": "sparse coding",
+                    "redirect": true
+                }
+            ]
+        },
+        "convolutional_neural_network": {
+            "wiki_title": "convolutional neural network",
+            "ontology_terms": [
+                {
+                    "term": "convolutional neural network",
+                    "redirect": false
+                }
+            ]
+        },
+        "case-based_reasoning": {
+            "wiki_title": "case-based reasoning",
+            "ontology_terms": [
+                {
+                    "term": "case-based reasoning",
+                    "redirect": false
+                }
+            ]
+        },
+        "concept_drift": {
+            "wiki_title": "concept drift",
+            "ontology_terms": [
+                {
+                    "term": "concept drift",
+                    "redirect": false
+                }
+            ]
+        },
+        "gradient_boosting": {
+            "wiki_title": "gradient boosting",
+            "ontology_terms": [
+                {
+                    "term": "gradient boosting",
+                    "redirect": false
+                }
+            ]
+        },
+        "stochastic_gradient_descent#adagrad": {
+            "wiki_title": "stochastic gradient descent",
+            "ontology_terms": [
+                {
+                    "term": "adagrad",
+                    "redirect": false
+                }
+            ]
+        },
+        "synthetic_data": {
+            "wiki_title": "synthetic data",
+            "ontology_terms": [
+                {
+                    "term": "synthetic data",
+                    "redirect": false
+                }
+            ]
+        },
+        "bayesian_network": {
+            "wiki_title": "bayesian network",
+            "ontology_terms": [
+                {
+                    "term": "bayesian network",
+                    "redirect": false
+                },
+                {
+                    "term": "bayesian belief network",
+                    "redirect": true
+                }
+            ]
+        },
+        "mean_squared_error": {
+            "wiki_title": "mean squared error",
+            "ontology_terms": [
+                {
+                    "term": "mean squared error",
+                    "redirect": true
+                }
+            ]
+        },
+        "principal_component_analysis": {
+            "wiki_title": "principal component analysis",
+            "ontology_terms": [
+                {
+                    "term": "principal component analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "hidden_markov_model": {
+            "wiki_title": "hidden markov model",
+            "ontology_terms": [
+                {
+                    "term": "hidden markov models",
+                    "redirect": true
+                }
+            ]
+        },
+        "named-entity_recognition": {
+            "wiki_title": "named-entity recognition",
+            "ontology_terms": [
+                {
+                    "term": "named-entity recognition",
+                    "redirect": false
+                }
+            ]
+        },
+        "optical_flow": {
+            "wiki_title": "optical flow",
+            "ontology_terms": [
+                {
+                    "term": "optical flow",
+                    "redirect": false
+                }
+            ]
+        },
+        "autoencoder": {
+            "wiki_title": "autoencoder",
+            "ontology_terms": [
+                {
+                    "term": "autoencoder",
+                    "redirect": false
+                }
+            ]
+        },
+        "association_rule_learning": {
+            "wiki_title": "association rule learning",
+            "ontology_terms": [
+                {
+                    "term": "association rule learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "ripple-down_rules": {
+            "wiki_title": "ripple-down rules",
+            "ontology_terms": [
+                {
+                    "term": "ripple down rules",
+                    "redirect": true
+                }
+            ]
+        },
+        "regression_analysis": {
+            "wiki_title": "regression analysis",
+            "ontology_terms": [
+                {
+                    "term": "regression analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "convolutional_neural_network#pooling_layer": {
+            "wiki_title": "convolutional neural network",
+            "ontology_terms": [
+                {
+                    "term": "max pooling",
+                    "redirect": true
+                }
+            ]
+        },
+        "stochastic_gradient_descent": {
+            "wiki_title": "stochastic gradient descent",
+            "ontology_terms": [
+                {
+                    "term": "stochastic gradient descent",
+                    "redirect": false
+                }
+            ]
+        },
+        "kriging": {
+            "wiki_title": "kriging",
+            "ontology_terms": [
+                {
+                    "term": "gaussian process regression",
+                    "redirect": true
+                }
+            ]
+        },
+        "gradient_boosting#gradient_tree_boosting": {
+            "wiki_title": "gradient boosting",
+            "ontology_terms": [
+                {
+                    "term": "gradient boosted decision tree",
+                    "redirect": true
+                }
+            ]
+        },
+        "multiclass_classification": {
+            "wiki_title": "multiclass classification",
+            "ontology_terms": [
+                {
+                    "term": "multi-class classification",
+                    "redirect": false
+                }
+            ]
+        },
+        "transfer_learning": {
+            "wiki_title": "transfer learning",
+            "ontology_terms": [
+                {
+                    "term": "transfer learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "binary_classification": {
+            "wiki_title": "binary classification",
+            "ontology_terms": [
+                {
+                    "term": "binary classification",
+                    "redirect": false
+                },
+                {
+                    "term": "binary classifier",
+                    "redirect": true
+                }
+            ]
+        },
+        "multivariate_adaptive_regression_spline": {
+            "wiki_title": "multivariate adaptive regression spline",
+            "ontology_terms": [
+                {
+                    "term": "multivariate adaptive regression splines",
+                    "redirect": false
+                }
+            ]
+        },
+        "scaling_(geometry)": {
+            "wiki_title": "scaling (geometry)",
+            "ontology_terms": [
+                {
+                    "term": "scaling",
+                    "redirect": false
+                }
+            ]
+        },
+        "hierarchical_classification": {
+            "wiki_title": "hierarchical classification",
+            "ontology_terms": [
+                {
+                    "term": "hierarchical classifier",
+                    "redirect": true
+                }
+            ]
+        },
+        "hyperbolic_functions": {
+            "wiki_title": "hyperbolic functions",
+            "ontology_terms": [
+                {
+                    "term": "tanh",
+                    "redirect": true
+                }
+            ]
+        },
+        "root_mean_square_deviation": {
+            "wiki_title": "root mean square deviation",
+            "ontology_terms": [
+                {
+                    "term": "root mean squared error",
+                    "redirect": true
+                }
+            ]
+        },
+        "random_search": {
+            "wiki_title": "random search",
+            "ontology_terms": [
+                {
+                    "term": "random search",
+                    "redirect": false
+                }
+            ]
+        },
+        "overfitting": {
+            "wiki_title": "overfitting",
+            "ontology_terms": [
+                {
+                    "term": "overfitting",
+                    "redirect": false
+                }
+            ]
+        },
+        "self-supervised_learning": {
+            "wiki_title": "self-supervised learning",
+            "ontology_terms": [
+                {
+                    "term": "self-supervised learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "long_short-term_memory": {
+            "wiki_title": "long short-term memory",
+            "ontology_terms": [
+                {
+                    "term": "long short-term memory",
+                    "redirect": false
+                }
+            ]
+        },
+        "unsupervised_learning": {
+            "wiki_title": "unsupervised learning",
+            "ontology_terms": [
+                {
+                    "term": "unsupervised learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "conditional_random_field": {
+            "wiki_title": "conditional random field",
+            "ontology_terms": [
+                {
+                    "term": "conditional random field",
+                    "redirect": false
+                }
+            ]
+        },
+        "normal_distribution": {
+            "wiki_title": "normal distribution",
+            "ontology_terms": [
+                {
+                    "term": "normal distribution",
+                    "redirect": false
+                }
+            ]
+        },
+        "linear_discriminant_analysis": {
+            "wiki_title": "linear discriminant analysis",
+            "ontology_terms": [
+                {
+                    "term": "linear discriminant analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "temporal_difference_learning": {
+            "wiki_title": "temporal difference learning",
+            "ontology_terms": [
+                {
+                    "term": "temporal difference learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "ensemble_learning": {
+            "wiki_title": "ensemble learning",
+            "ontology_terms": [
+                {
+                    "term": "ensemble methods",
+                    "redirect": true
+                },
+                {
+                    "term": "ensemble learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "level_of_measurement#ordinal_scale": {
+            "wiki_title": "level of measurement",
+            "ontology_terms": [
+                {
+                    "term": "ordinal classification",
+                    "redirect": true
+                }
+            ]
+        },
+        "standardization": {
+            "wiki_title": "standardization",
+            "ontology_terms": [
+                {
+                    "term": "standardization",
+                    "redirect": false
+                }
+            ]
+        },
+        "large_language_model": {
+            "wiki_title": "large language model",
+            "ontology_terms": [
+                {
+                    "term": "large language models",
+                    "redirect": false
+                }
+            ]
+        },
+        "activation_function": {
+            "wiki_title": "activation function",
+            "ontology_terms": [
+                {
+                    "term": "activation functions",
+                    "redirect": false
+                }
+            ]
+        },
+        "bayesian_statistics": {
+            "wiki_title": "bayesian statistics",
+            "ontology_terms": [
+                {
+                    "term": "bayesian statistics",
+                    "redirect": false
+                }
+            ]
+        },
+        "logistic_model_tree": {
+            "wiki_title": "logistic model tree",
+            "ontology_terms": [
+                {
+                    "term": "logistic model tree",
+                    "redirect": false
+                }
+            ]
+        },
+        "supervised_learning": {
+            "wiki_title": "supervised learning",
+            "ontology_terms": [
+                {
+                    "term": "supervised learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "constraint_(mathematics)": {
+            "wiki_title": "constraint (mathematics)",
+            "ontology_terms": [
+                {
+                    "term": "constraints",
+                    "redirect": false
+                }
+            ]
+        },
+        "multidimensional_scaling": {
+            "wiki_title": "multidimensional scaling",
+            "ontology_terms": [
+                {
+                    "term": "multi-dimensional scaling",
+                    "redirect": false
+                }
+            ]
+        },
+        "batch_normalization": {
+            "wiki_title": "batch normalization",
+            "ontology_terms": [
+                {
+                    "term": "batch normalization",
+                    "redirect": false
+                }
+            ]
+        },
+        "single-linkage_clustering": {
+            "wiki_title": "single-linkage clustering",
+            "ontology_terms": [
+                {
+                    "term": "single-linkage clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "deep_learning": {
+            "wiki_title": "deep learning",
+            "ontology_terms": [
+                {
+                    "term": "deep learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "metadata": {
+            "wiki_title": "metadata",
+            "ontology_terms": [
+                {
+                    "term": "metadata",
+                    "redirect": false
+                }
+            ]
+        },
+        "feedforward_neural_network": {
+            "wiki_title": "feedforward neural network",
+            "ontology_terms": [
+                {
+                    "term": "feedforward neural network",
+                    "redirect": false
+                }
+            ]
+        },
+        "analogical_modeling": {
+            "wiki_title": "analogical modeling",
+            "ontology_terms": [
+                {
+                    "term": "analogical modeling",
+                    "redirect": false
+                }
+            ]
+        },
+        "learning_rate": {
+            "wiki_title": "learning rate",
+            "ontology_terms": [
+                {
+                    "term": "learning rate",
+                    "redirect": false
+                }
+            ]
+        },
+        "convolutional_neural_network#pooling_layers": {
+            "wiki_title": "convolutional neural network",
+            "ontology_terms": [
+                {
+                    "term": "pooling layers",
+                    "redirect": false
+                }
+            ]
+        },
+        "precision_(computer_science)": {
+            "wiki_title": "precision (computer science)",
+            "ontology_terms": [
+                {
+                    "term": "precision",
+                    "redirect": false
+                }
+            ]
+        },
+        "edge_detection": {
+            "wiki_title": "edge detection",
+            "ontology_terms": [
+                {
+                    "term": "edge detection",
+                    "redirect": false
+                }
+            ]
+        },
+        "group_method_of_data_handling": {
+            "wiki_title": "group method of data handling",
+            "ontology_terms": [
+                {
+                    "term": "group method of data handling",
+                    "redirect": false
+                }
+            ]
+        },
+        "logistic_regression": {
+            "wiki_title": "logistic regression",
+            "ontology_terms": [
+                {
+                    "term": "logistic regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "speech_recognition": {
+            "wiki_title": "speech recognition",
+            "ontology_terms": [
+                {
+                    "term": "speech recognition",
+                    "redirect": false
+                }
+            ]
+        },
+        "q-function": {
+            "wiki_title": "q-function",
+            "ontology_terms": [
+                {
+                    "term": "q-function",
+                    "redirect": false
+                }
+            ]
+        },
+        "dbscan": {
+            "wiki_title": "dbscan",
+            "ontology_terms": [
+                {
+                    "term": "dbscan",
+                    "redirect": true
+                }
+            ]
+        },
+        "transduction_(machine_learning)": {
+            "wiki_title": "transduction (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "transduction",
+                    "redirect": false
+                }
+            ]
+        },
+        "inceptionv3": {
+            "wiki_title": "inceptionv3",
+            "ontology_terms": [
+                {
+                    "term": "inception",
+                    "redirect": false
+                }
+            ]
+        },
+        "linear_classifier": {
+            "wiki_title": "linear classifier",
+            "ontology_terms": [
+                {
+                    "term": "linear classifier",
+                    "redirect": false
+                }
+            ]
+        },
+        "feature_engineering": {
+            "wiki_title": "feature engineering",
+            "ontology_terms": [
+                {
+                    "term": "feature extraction",
+                    "redirect": true
+                },
+                {
+                    "term": "feature engineering",
+                    "redirect": false
+                }
+            ]
+        },
+        "time_series": {
+            "wiki_title": "time series",
+            "ontology_terms": [
+                {
+                    "term": "time series prediction",
+                    "redirect": true
+                }
+            ]
+        },
+        "naive_bayes_classifier": {
+            "wiki_title": "naive bayes classifier",
+            "ontology_terms": [
+                {
+                    "term": "naive bayes",
+                    "redirect": true
+                }
+            ]
+        },
+        "word2vec": {
+            "wiki_title": "word2vec",
+            "ontology_terms": [
+                {
+                    "term": "word2vec",
+                    "redirect": false
+                }
+            ]
+        },
+        "learning_rate#adaptive_learning_rate": {
+            "wiki_title": "learning rate",
+            "ontology_terms": [
+                {
+                    "term": "adaptive learning rate",
+                    "redirect": true
+                }
+            ]
+        },
+        "ensemble_averaging_(machine_learning)": {
+            "wiki_title": "ensemble averaging (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "ensemble averaging",
+                    "redirect": true
+                }
+            ]
+        },
+        "elastic_map": {
+            "wiki_title": "elastic map",
+            "ontology_terms": [
+                {
+                    "term": "elastic net",
+                    "redirect": true
+                }
+            ]
+        },
+        "machine_translation": {
+            "wiki_title": "machine translation",
+            "ontology_terms": [
+                {
+                    "term": "machine translation",
+                    "redirect": false
+                }
+            ]
+        },
+        "ridge_regression#tikhonov_regularization": {
+            "wiki_title": "ridge regression",
+            "ontology_terms": [
+                {
+                    "term": "weight decay",
+                    "redirect": true
+                }
+            ]
+        },
+        "sampling_(statistics)": {
+            "wiki_title": "sampling (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "sampling",
+                    "redirect": false
+                }
+            ]
+        },
+        "weak_supervision": {
+            "wiki_title": "weak supervision",
+            "ontology_terms": [
+                {
+                    "term": "semi-supervised learning",
+                    "redirect": true
+                }
+            ]
+        },
+        "binary_decoder": {
+            "wiki_title": "binary decoder",
+            "ontology_terms": [
+                {
+                    "term": "decoder",
+                    "redirect": false
+                }
+            ]
+        },
+        "support_vector_machine": {
+            "wiki_title": "support vector machine",
+            "ontology_terms": [
+                {
+                    "term": "support vector machines",
+                    "redirect": true
+                }
+            ]
+        },
+        "neural_network_(machine_learning)": {
+            "wiki_title": "neural network (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "artificial neural network",
+                    "redirect": true
+                }
+            ]
+        },
+        "prompt_engineering": {
+            "wiki_title": "prompt engineering",
+            "ontology_terms": [
+                {
+                    "term": "prompt engineering",
+                    "redirect": false
+                }
+            ]
+        },
+        "curriculum_learning": {
+            "wiki_title": "curriculum learning",
+            "ontology_terms": [
+                {
+                    "term": "curriculum learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "ordinary_least_squares": {
+            "wiki_title": "ordinary least squares",
+            "ontology_terms": [
+                {
+                    "term": "ordinary least squares regression",
+                    "redirect": true
+                }
+            ]
+        },
+        "prompt_engineering#chain-of-thought": {
+            "wiki_title": "prompt engineering",
+            "ontology_terms": [
+                {
+                    "term": "chain-of-thought prompting",
+                    "redirect": true
+                }
+            ]
+        },
+        "stepwise_regression": {
+            "wiki_title": "stepwise regression",
+            "ontology_terms": [
+                {
+                    "term": "stepwise regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "multi-task_learning": {
+            "wiki_title": "multi-task learning",
+            "ontology_terms": [
+                {
+                    "term": "multi-task learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "neural_architecture_search": {
+            "wiki_title": "neural architecture search",
+            "ontology_terms": [
+                {
+                    "term": "neural architecture search",
+                    "redirect": false
+                }
+            ]
+        },
+        "perplexity": {
+            "wiki_title": "perplexity",
+            "ontology_terms": [
+                {
+                    "term": "perplexity",
+                    "redirect": false
+                }
+            ]
+        },
+        "projection_pursuit": {
+            "wiki_title": "projection pursuit",
+            "ontology_terms": [
+                {
+                    "term": "projection pursuit",
+                    "redirect": false
+                }
+            ]
+        },
+        "deep_belief_network": {
+            "wiki_title": "deep belief network",
+            "ontology_terms": [
+                {
+                    "term": "deep belief networks",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_cleansing": {
+            "wiki_title": "data cleansing",
+            "ontology_terms": [
+                {
+                    "term": "data cleaning",
+                    "redirect": true
+                }
+            ]
+        },
+        "partial_least_squares_regression": {
+            "wiki_title": "partial least squares regression",
+            "ontology_terms": [
+                {
+                    "term": "partial least squares regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "large_language_model#prompt_engineering,_attention_mechanism,_and_context_window": {
+            "wiki_title": "large language model",
+            "ontology_terms": [
+                {
+                    "term": "context window",
+                    "redirect": true
+                }
+            ]
+        },
+        "stochastic_gradient_descent#rmsprop": {
+            "wiki_title": "stochastic gradient descent",
+            "ontology_terms": [
+                {
+                    "term": "rmsprop",
+                    "redirect": false
+                }
+            ]
+        },
+        "vanishing_gradient_problem": {
+            "wiki_title": "vanishing gradient problem",
+            "ontology_terms": [
+                {
+                    "term": "vanishing gradient problem",
+                    "redirect": false
+                }
+            ]
+        },
+        "boosting_(machine_learning)": {
+            "wiki_title": "boosting (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "boosting",
+                    "redirect": false
+                }
+            ]
+        },
+        "dimensionality_reduction": {
+            "wiki_title": "dimensionality reduction",
+            "ontology_terms": [
+                {
+                    "term": "dimensionality reduction",
+                    "redirect": false
+                }
+            ]
+        },
+        "false_positives_and_false_negatives#true_negative": {
+            "wiki_title": "false positives and false negatives",
+            "ontology_terms": [
+                {
+                    "term": "true negative",
+                    "redirect": true
+                }
+            ]
+        },
+        "phi_coefficient": {
+            "wiki_title": "phi coefficient",
+            "ontology_terms": [
+                {
+                    "term": "matthews correlation coefficient",
+                    "redirect": true
+                }
+            ]
+        },
+        "reinforcement_learning": {
+            "wiki_title": "reinforcement learning",
+            "ontology_terms": [
+                {
+                    "term": "reinforcement learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "pattern_recognition": {
+            "wiki_title": "pattern recognition",
+            "ontology_terms": [
+                {
+                    "term": "pattern recognition",
+                    "redirect": false
+                }
+            ]
+        },
+        "mean_reciprocal_rank": {
+            "wiki_title": "mean reciprocal rank",
+            "ontology_terms": [
+                {
+                    "term": "mean reciprocal rank",
+                    "redirect": false
+                }
+            ]
+        },
+        "quantization_(signal_processing)": {
+            "wiki_title": "quantization (signal processing)",
+            "ontology_terms": [
+                {
+                    "term": "quantization",
+                    "redirect": false
+                }
+            ]
+        },
+        "generative_model": {
+            "wiki_title": "generative model",
+            "ontology_terms": [
+                {
+                    "term": "generative models",
+                    "redirect": false
+                }
+            ]
+        },
+        "false_positives_and_false_negatives#false_negative_error": {
+            "wiki_title": "false positives and false negatives",
+            "ontology_terms": [
+                {
+                    "term": "false negative",
+                    "redirect": true
+                }
+            ]
+        },
+        "bhattacharyya_distance": {
+            "wiki_title": "bhattacharyya distance",
+            "ontology_terms": [
+                {
+                    "term": "bhattacharyya distance",
+                    "redirect": false
+                }
+            ]
+        },
+        "cohen%27s_kappa": {
+            "wiki_title": "cohen's kappa",
+            "ontology_terms": [
+                {
+                    "term": "cohen's kappa",
+                    "redirect": false
+                }
+            ]
+        },
+        "stochastic_gradient_descent#adam": {
+            "wiki_title": "stochastic gradient descent",
+            "ontology_terms": [
+                {
+                    "term": "adam",
+                    "redirect": false
+                }
+            ]
+        },
+        "jaccard_index": {
+            "wiki_title": "jaccard index",
+            "ontology_terms": [
+                {
+                    "term": "jaccard index",
+                    "redirect": false
+                }
+            ]
+        },
+        "independent_component_analysis": {
+            "wiki_title": "independent component analysis",
+            "ontology_terms": [
+                {
+                    "term": "independent component analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "huber_loss": {
+            "wiki_title": "huber loss",
+            "ontology_terms": [
+                {
+                    "term": "huber loss",
+                    "redirect": false
+                }
+            ]
+        },
+        "expectation%e2%80%93maximization_algorithm": {
+            "wiki_title": "expectation\u2013maximization algorithm",
+            "ontology_terms": [
+                {
+                    "term": "expectation-maximization algorithm",
+                    "redirect": true
+                }
+            ]
+        },
+        "mean_shift": {
+            "wiki_title": "mean shift",
+            "ontology_terms": [
+                {
+                    "term": "mean-shift",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_integration": {
+            "wiki_title": "data integration",
+            "ontology_terms": [
+                {
+                    "term": "data integration",
+                    "redirect": false
+                }
+            ]
+        },
+        "softmax_function": {
+            "wiki_title": "softmax function",
+            "ontology_terms": [
+                {
+                    "term": "softmax",
+                    "redirect": true
+                }
+            ]
+        },
+        "cross-validation_(statistics)#leave-one-out_cross-validation": {
+            "wiki_title": "cross-validation (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "leave-one-out",
+                    "redirect": true
+                }
+            ]
+        },
+        "recurrent_neural_network": {
+            "wiki_title": "recurrent neural network",
+            "ontology_terms": [
+                {
+                    "term": "recurrent neural network",
+                    "redirect": false
+                }
+            ]
+        },
+        "reinforcement_learning_from_human_feedback": {
+            "wiki_title": "reinforcement learning from human feedback",
+            "ontology_terms": [
+                {
+                    "term": "reinforcement learning from human feedback",
+                    "redirect": false
+                }
+            ]
+        },
+        "gated_recurrent_unit": {
+            "wiki_title": "gated recurrent unit",
+            "ontology_terms": [
+                {
+                    "term": "gated recurrent unit",
+                    "redirect": false
+                }
+            ]
+        },
+        "factor_analysis": {
+            "wiki_title": "factor analysis",
+            "ontology_terms": [
+                {
+                    "term": "factor analysis",
+                    "redirect": false
+                }
+            ]
+        },
+        "self-organizing_map": {
+            "wiki_title": "self-organizing map",
+            "ontology_terms": [
+                {
+                    "term": "self-organizing map",
+                    "redirect": false
+                }
+            ]
+        },
+        "loss_function": {
+            "wiki_title": "loss function",
+            "ontology_terms": [
+                {
+                    "term": "loss function",
+                    "redirect": false
+                }
+            ]
+        },
+        "fuzzy_clustering": {
+            "wiki_title": "fuzzy clustering",
+            "ontology_terms": [
+                {
+                    "term": "fuzzy clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "learning_automaton": {
+            "wiki_title": "learning automaton",
+            "ontology_terms": [
+                {
+                    "term": "learning automata",
+                    "redirect": true
+                }
+            ]
+        },
+        "k-nearest_neighbors_algorithm": {
+            "wiki_title": "k-nearest neighbors algorithm",
+            "ontology_terms": [
+                {
+                    "term": "k-nearest neighbor",
+                    "redirect": true
+                }
+            ]
+        },
+        "principal_component_regression": {
+            "wiki_title": "principal component regression",
+            "ontology_terms": [
+                {
+                    "term": "principal component regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "conceptual_clustering": {
+            "wiki_title": "conceptual clustering",
+            "ontology_terms": [
+                {
+                    "term": "conceptual clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "random_forest": {
+            "wiki_title": "random forest",
+            "ontology_terms": [
+                {
+                    "term": "random forest",
+                    "redirect": false
+                }
+            ]
+        },
+        "inductive_bias": {
+            "wiki_title": "inductive bias",
+            "ontology_terms": [
+                {
+                    "term": "inductive bias",
+                    "redirect": false
+                }
+            ]
+        },
+        "active_learning_(machine_learning)": {
+            "wiki_title": "active learning (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "active learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "hierarchical_hidden_markov_model": {
+            "wiki_title": "hierarchical hidden markov model",
+            "ontology_terms": [
+                {
+                    "term": "hierarchical hidden markov model",
+                    "redirect": true
+                }
+            ]
+        },
+        "bootstrap_aggregating": {
+            "wiki_title": "bootstrap aggregating",
+            "ontology_terms": [
+                {
+                    "term": "bootstrap aggregating",
+                    "redirect": false
+                }
+            ]
+        },
+        "canonical_correlation": {
+            "wiki_title": "canonical correlation",
+            "ontology_terms": [
+                {
+                    "term": "canonical correlation analysis",
+                    "redirect": true
+                }
+            ]
+        },
+        "lazy_learning": {
+            "wiki_title": "lazy learning",
+            "ontology_terms": [
+                {
+                    "term": "lazy learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "local_outlier_factor": {
+            "wiki_title": "local outlier factor",
+            "ontology_terms": [
+                {
+                    "term": "local outlier factor",
+                    "redirect": false
+                }
+            ]
+        },
+        "quadratic_classifier": {
+            "wiki_title": "quadratic classifier",
+            "ontology_terms": [
+                {
+                    "term": "quadratic classifiers",
+                    "redirect": false
+                }
+            ]
+        },
+        "learning_vector_quantization": {
+            "wiki_title": "learning vector quantization",
+            "ontology_terms": [
+                {
+                    "term": "learning vector quantization",
+                    "redirect": false
+                }
+            ]
+        },
+        "chi-squared_distribution": {
+            "wiki_title": "chi-squared distribution",
+            "ontology_terms": [
+                {
+                    "term": "chi-squared",
+                    "redirect": false
+                }
+            ]
+        },
+        "bellman_equation": {
+            "wiki_title": "bellman equation",
+            "ontology_terms": [
+                {
+                    "term": "bellman equation",
+                    "redirect": false
+                }
+            ]
+        },
+        "graph_neural_network": {
+            "wiki_title": "graph neural network",
+            "ontology_terms": [
+                {
+                    "term": "graph neural networks",
+                    "redirect": false
+                }
+            ]
+        },
+        "document_classification": {
+            "wiki_title": "document classification",
+            "ontology_terms": [
+                {
+                    "term": "text classification",
+                    "redirect": false
+                }
+            ]
+        },
+        "f-score": {
+            "wiki_title": "f-score",
+            "ontology_terms": [
+                {
+                    "term": "f1 score",
+                    "redirect": true
+                }
+            ]
+        },
+        "spectral_clustering": {
+            "wiki_title": "spectral clustering",
+            "ontology_terms": [
+                {
+                    "term": "spectral clustering",
+                    "redirect": false
+                }
+            ]
+        },
+        "birch": {
+            "wiki_title": "birch",
+            "ontology_terms": [
+                {
+                    "term": "birch",
+                    "redirect": false
+                }
+            ]
+        },
+        "instance-based_learning": {
+            "wiki_title": "instance-based learning",
+            "ontology_terms": [
+                {
+                    "term": "instance-based learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "averaged_one-dependence_estimators": {
+            "wiki_title": "averaged one-dependence estimators",
+            "ontology_terms": [
+                {
+                    "term": "averaged one-dependence estimators",
+                    "redirect": false
+                }
+            ]
+        },
+        "feature_selection": {
+            "wiki_title": "feature selection",
+            "ontology_terms": [
+                {
+                    "term": "feature selection",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_augmentation": {
+            "wiki_title": "data augmentation",
+            "ontology_terms": [
+                {
+                    "term": "data augmentation",
+                    "redirect": false
+                }
+            ]
+        },
+        "analysis_of_variance": {
+            "wiki_title": "analysis of variance",
+            "ontology_terms": [
+                {
+                    "term": "anova",
+                    "redirect": true
+                }
+            ]
+        },
+        "gradient_descent": {
+            "wiki_title": "gradient descent",
+            "ontology_terms": [
+                {
+                    "term": "gradient descent",
+                    "redirect": false
+                },
+                {
+                    "term": "gradient descent algorithms",
+                    "redirect": false
+                }
+            ]
+        },
+        "ridge_regression": {
+            "wiki_title": "ridge regression",
+            "ontology_terms": [
+                {
+                    "term": "ridge regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "latent_dirichlet_allocation": {
+            "wiki_title": "latent dirichlet allocation",
+            "ontology_terms": [
+                {
+                    "term": "latent dirichlet allocation",
+                    "redirect": true
+                }
+            ]
+        },
+        "anomaly_detection": {
+            "wiki_title": "anomaly detection",
+            "ontology_terms": [
+                {
+                    "term": "anomaly detection",
+                    "redirect": false
+                }
+            ]
+        },
+        "adaboost": {
+            "wiki_title": "adaboost",
+            "ontology_terms": [
+                {
+                    "term": "adaboost",
+                    "redirect": true
+                }
+            ]
+        },
+        "sammon_mapping": {
+            "wiki_title": "sammon mapping",
+            "ontology_terms": [
+                {
+                    "term": "sammon mapping",
+                    "redirect": false
+                }
+            ]
+        },
+        "noise_reduction": {
+            "wiki_title": "noise reduction",
+            "ontology_terms": [
+                {
+                    "term": "noise reduction",
+                    "redirect": false
+                }
+            ]
+        },
+        "decision_tree_learning": {
+            "wiki_title": "decision tree learning",
+            "ontology_terms": [
+                {
+                    "term": "classification metrics",
+                    "redirect": false
+                }
+            ]
+        },
+        "co-training": {
+            "wiki_title": "co-training",
+            "ontology_terms": [
+                {
+                    "term": "co-training",
+                    "redirect": false
+                }
+            ]
+        },
+        "neural_style_transfer": {
+            "wiki_title": "neural style transfer",
+            "ontology_terms": [
+                {
+                    "term": "style transfer",
+                    "redirect": true
+                }
+            ]
+        },
+        "decision_tree_pruning": {
+            "wiki_title": "decision tree pruning",
+            "ontology_terms": [
+                {
+                    "term": "pruning",
+                    "redirect": true
+                }
+            ]
+        },
+        "linear_regression": {
+            "wiki_title": "linear regression",
+            "ontology_terms": [
+                {
+                    "term": "linear regression",
+                    "redirect": false
+                }
+            ]
+        },
+        "softmax_function#temperature": {
+            "wiki_title": "softmax function",
+            "ontology_terms": [
+                {
+                    "term": "temperature",
+                    "redirect": true
+                }
+            ]
+        },
+        "residual_neural_network": {
+            "wiki_title": "residual neural network",
+            "ontology_terms": [
+                {
+                    "term": "resnet",
+                    "redirect": false
+                }
+            ]
+        },
+        "spectral_centroid": {
+            "wiki_title": "spectral centroid",
+            "ontology_terms": [
+                {
+                    "term": "spectral centroid",
+                    "redirect": false
+                }
+            ]
+        },
+        "pitch_shifting": {
+            "wiki_title": "pitch shifting",
+            "ontology_terms": [
+                {
+                    "term": "pitch shifting",
+                    "redirect": false
+                }
+            ]
+        },
+        "knowledge_distillation": {
+            "wiki_title": "knowledge distillation",
+            "ontology_terms": [
+                {
+                    "term": "distillation",
+                    "redirect": false
+                }
+            ]
+        },
+        "regular_expression": {
+            "wiki_title": "regular expression",
+            "ontology_terms": [
+                {
+                    "term": "regular expressions",
+                    "redirect": false
+                }
+            ]
+        },
+        "shot_transition_detection": {
+            "wiki_title": "shot transition detection",
+            "ontology_terms": [
+                {
+                    "term": "shot boundary detection",
+                    "redirect": false
+                }
+            ]
+        },
+        "meta-learning_(computer_science)": {
+            "wiki_title": "meta-learning (computer science)",
+            "ontology_terms": [
+                {
+                    "term": "meta-learning",
+                    "redirect": false
+                }
+            ]
+        },
+        "resampling_(statistics)": {
+            "wiki_title": "resampling (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "resampling",
+                    "redirect": false
+                }
+            ]
+        },
+        "association_rule_learning#fp-growth_algorithm": {
+            "wiki_title": "association rule learning",
+            "ontology_terms": [
+                {
+                    "term": "fp-growth algorithm",
+                    "redirect": false
+                }
+            ]
+        },
+        "vector_database": {
+            "wiki_title": "vector database",
+            "ontology_terms": [
+                {
+                    "term": "vector databases",
+                    "redirect": false
+                }
+            ]
+        },
+        "mahalanobis_distance": {
+            "wiki_title": "mahalanobis distance",
+            "ontology_terms": [
+                {
+                    "term": "mahalanobis distance",
+                    "redirect": false
+                }
+            ]
+        },
+        "stop_word": {
+            "wiki_title": "stop word",
+            "ontology_terms": [
+                {
+                    "term": "stop word removal",
+                    "redirect": false
+                }
+            ]
+        },
+        "mean_absolute_error": {
+            "wiki_title": "mean absolute error",
+            "ontology_terms": [
+                {
+                    "term": "mean absolute error",
+                    "redirect": false
+                }
+            ]
+        },
+        "n-gram": {
+            "wiki_title": "n-gram",
+            "ontology_terms": [
+                {
+                    "term": "character n-grams",
+                    "redirect": false
+                }
+            ]
+        },
+        "word_n-gram_language_model": {
+            "wiki_title": "word n-gram language model",
+            "ontology_terms": [
+                {
+                    "term": "word n-grams",
+                    "redirect": false
+                }
+            ]
+        },
+        "imputation_(statistics)#regression": {
+            "wiki_title": "imputation (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "regression imputation",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_transformation_(computing)": {
+            "wiki_title": "data transformation (computing)",
+            "ontology_terms": [
+                {
+                    "term": "feature transformation",
+                    "redirect": false
+                },
+                {
+                    "term": "data transformation",
+                    "redirect": false
+                }
+            ]
+        },
+        "oversampling_and_undersampling_in_data_analysis#random_undersampling": {
+            "wiki_title": "oversampling and undersampling in data analysis",
+            "ontology_terms": [
+                {
+                    "term": "random undersampling",
+                    "redirect": false
+                }
+            ]
+        },
+        "oversampling_and_undersampling_in_data_analysis#adasyn": {
+            "wiki_title": "oversampling and undersampling in data analysis",
+            "ontology_terms": [
+                {
+                    "term": "adasyn (adaptive synthetic)",
+                    "redirect": false
+                }
+            ]
+        },
+        "inception_score": {
+            "wiki_title": "inception score",
+            "ontology_terms": [
+                {
+                    "term": "inception score",
+                    "redirect": false
+                }
+            ]
+        },
+        "bleu": {
+            "wiki_title": "bleu",
+            "ontology_terms": [
+                {
+                    "term": "bleu score",
+                    "redirect": false
+                }
+            ]
+        },
+        "fr\u00e9chet_inception_distance": {
+            "wiki_title": "fr\u00e9chet inception distance",
+            "ontology_terms": [
+                {
+                    "term": "fr\u00e9chet inception distance",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_preparation": {
+            "wiki_title": "data preparation",
+            "ontology_terms": [
+                {
+                    "term": "data preparation",
+                    "redirect": false
+                }
+            ]
+        },
+        "loss_functions_for_classification#logistic_loss": {
+            "wiki_title": "loss functions for classification",
+            "ontology_terms": [
+                {
+                    "term": "log loss",
+                    "redirect": false
+                }
+            ]
+        },
+        "convolutional_neural_network#convolutional_layer": {
+            "wiki_title": "convolutional neural network",
+            "ontology_terms": [
+                {
+                    "term": "convolutional layer",
+                    "redirect": false
+                }
+            ]
+        },
+        "discrete_uniform_distribution": {
+            "wiki_title": "discrete uniform distribution",
+            "ontology_terms": [
+                {
+                    "term": "uniform distribution",
+                    "redirect": false
+                }
+            ]
+        },
+        "hyperparameter_optimization": {
+            "wiki_title": "hyperparameter optimization",
+            "ontology_terms": [
+                {
+                    "term": "hyperparameter selection",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_retrieval": {
+            "wiki_title": "data retrieval",
+            "ontology_terms": [
+                {
+                    "term": "data retrieval",
+                    "redirect": false
+                }
+            ]
+        },
+        "bag-of-words_model": {
+            "wiki_title": "bag-of-words model",
+            "ontology_terms": [
+                {
+                    "term": "bag of words",
+                    "redirect": false
+                }
+            ]
+        },
+        "evaluation_measures_(information_retrieval)": {
+            "wiki_title": "evaluation measures (information retrieval)",
+            "ontology_terms": [
+                {
+                    "term": "information retrieval metrics",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_deduplication": {
+            "wiki_title": "data deduplication",
+            "ontology_terms": [
+                {
+                    "term": "deduplication",
+                    "redirect": false
+                }
+            ]
+        },
+        "gaussian_noise": {
+            "wiki_title": "gaussian noise",
+            "ontology_terms": [
+                {
+                    "term": "gaussian noise",
+                    "redirect": false
+                }
+            ]
+        },
+        "transformer_(deep_learning_architecture)#encoder-decoder_(overview)": {
+            "wiki_title": "transformer (deep learning architecture)",
+            "ontology_terms": [
+                {
+                    "term": "encoder-decoder",
+                    "redirect": false
+                }
+            ]
+        },
+        "vanishing_gradient_problem#weight_initialization": {
+            "wiki_title": "vanishing gradient problem",
+            "ontology_terms": [
+                {
+                    "term": "weight initialization",
+                    "redirect": false
+                }
+            ]
+        },
+        "evidence_lower_bound": {
+            "wiki_title": "evidence lower bound",
+            "ontology_terms": [
+                {
+                    "term": "variational lower bound",
+                    "redirect": false
+                }
+            ]
+        },
+        "rectifier_(neural_networks)": {
+            "wiki_title": "rectifier (neural networks)",
+            "ontology_terms": [
+                {
+                    "term": "rectified linear unit (relu)",
+                    "redirect": false
+                }
+            ]
+        },
+        "stemming": {
+            "wiki_title": "stemming",
+            "ontology_terms": [
+                {
+                    "term": "stemming",
+                    "redirect": false
+                }
+            ]
+        },
+        "intelligent_agent": {
+            "wiki_title": "intelligent agent",
+            "ontology_terms": [
+                {
+                    "term": "llm agents",
+                    "redirect": false
+                }
+            ]
+        },
+        "object_detection": {
+            "wiki_title": "object detection",
+            "ontology_terms": [
+                {
+                    "term": "object detection",
+                    "redirect": false
+                }
+            ]
+        },
+        "data_reduction": {
+            "wiki_title": "data reduction",
+            "ontology_terms": [
+                {
+                    "term": "data reduction",
+                    "redirect": false
+                }
+            ]
+        },
+        "canonical_form#computing": {
+            "wiki_title": "canonical form",
+            "ontology_terms": [
+                {
+                    "term": "normalization",
+                    "redirect": false
+                }
+            ]
+        },
+        "silhouette_(clustering)": {
+            "wiki_title": "silhouette (clustering)",
+            "ontology_terms": [
+                {
+                    "term": "silhouette score",
+                    "redirect": false
+                }
+            ]
+        },
+        "hinge_loss": {
+            "wiki_title": "hinge loss",
+            "ontology_terms": [
+                {
+                    "term": "hinge loss",
+                    "redirect": false
+                }
+            ]
+        },
+        "dilution_(neural_networks)#dropout": {
+            "wiki_title": "dilution (neural networks)",
+            "ontology_terms": [
+                {
+                    "term": "dropout",
+                    "redirect": false
+                }
+            ]
+        },
+        "elmo": {
+            "wiki_title": "elmo",
+            "ontology_terms": [
+                {
+                    "term": "elmo (embeddings from language model)",
+                    "redirect": false
+                }
+            ]
+        },
+        "brier_score": {
+            "wiki_title": "brier score",
+            "ontology_terms": [
+                {
+                    "term": "brier score",
+                    "redirect": false
+                }
+            ]
+        },
+        "lasso_(statistics)": {
+            "wiki_title": "lasso (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "least absolute shrinkage and selection operator (lasso)",
+                    "redirect": false
+                }
+            ]
+        },
+        "hyperparameter_optimization#grid_search": {
+            "wiki_title": "hyperparameter optimization",
+            "ontology_terms": [
+                {
+                    "term": "grid search",
+                    "redirect": false
+                }
+            ]
+        },
+        "oversampling_and_undersampling_in_data_analysis#smote": {
+            "wiki_title": "oversampling and undersampling in data analysis",
+            "ontology_terms": [
+                {
+                    "term": "smote (synthetic minority over-sampling technique)",
+                    "redirect": false
+                }
+            ]
+        },
+        "lemmatization": {
+            "wiki_title": "lemmatization",
+            "ontology_terms": [
+                {
+                    "term": "lemmatization",
+                    "redirect": false
+                }
+            ]
+        },
+        "early_stopping": {
+            "wiki_title": "early stopping",
+            "ontology_terms": [
+                {
+                    "term": "early stopping",
+                    "redirect": false
+                }
+            ]
+        },
+        "gini_coefficient": {
+            "wiki_title": "gini coefficient",
+            "ontology_terms": [
+                {
+                    "term": "gini coefficient",
+                    "redirect": false
+                }
+            ]
+        },
+        "histogram_of_oriented_gradients": {
+            "wiki_title": "histogram of oriented gradients",
+            "ontology_terms": [
+                {
+                    "term": "hog (histogram of oriented gradients)",
+                    "redirect": false
+                }
+            ]
+        },
+        "one-hot": {
+            "wiki_title": "one-hot",
+            "ontology_terms": [
+                {
+                    "term": "one-hot encoding",
+                    "redirect": false
+                }
+            ]
+        },
+        "attention_(machine_learning)": {
+            "wiki_title": "attention (machine learning)",
+            "ontology_terms": [
+                {
+                    "term": "self-attention layer",
+                    "redirect": false
+                }
+            ]
+        },
+        "hellinger_distance": {
+            "wiki_title": "hellinger distance",
+            "ontology_terms": [
+                {
+                    "term": "hellinger distance",
+                    "redirect": false
+                }
+            ]
+        },
+        "exponential_decay": {
+            "wiki_title": "exponential decay",
+            "ontology_terms": [
+                {
+                    "term": "exponential decay",
+                    "redirect": false
+                }
+            ]
+        },
+        "coefficient_of_determination#adjusted_r2": {
+            "wiki_title": "coefficient of determination",
+            "ontology_terms": [
+                {
+                    "term": "adjusted r-squared",
+                    "redirect": false
+                }
+            ]
+        },
+        "search_engine_indexing": {
+            "wiki_title": "search engine indexing",
+            "ontology_terms": [
+                {
+                    "term": "data indexing",
+                    "redirect": false
+                }
+            ]
+        },
+        "chunk_(information)": {
+            "wiki_title": "chunk (information)",
+            "ontology_terms": [
+                {
+                    "term": "data chunking",
+                    "redirect": false
+                }
+            ]
+        },
+        "statistics#methods": {
+            "wiki_title": "statistics",
+            "ontology_terms": [
+                {
+                    "term": "statistical methods",
+                    "redirect": false
+                }
+            ]
+        },
+        "chi-squared_test": {
+            "wiki_title": "chi-squared test",
+            "ontology_terms": [
+                {
+                    "term": "chi-squared test",
+                    "redirect": false
+                }
+            ]
+        },
+        "meteoroid#meteors": {
+            "wiki_title": "meteoroid",
+            "ontology_terms": [
+                {
+                    "term": "meteor score",
+                    "redirect": true
+                }
+            ]
+        },
+        "lasso_(statistics)#fused_lasso": {
+            "wiki_title": "lasso (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "fused lasso",
+                    "redirect": false
+                }
+            ]
+        },
+        "imputation_(statistics)": {
+            "wiki_title": "imputation (statistics)",
+            "ontology_terms": [
+                {
+                    "term": "imputation",
+                    "redirect": false
+                }
+            ]
+        },
+        "t-distributed_stochastic_neighbor_embedding": {
+            "wiki_title": "t-distributed stochastic neighbor embedding",
+            "ontology_terms": [
+                {
+                    "term": "t-distributed stochastic neighbor embedding (t-sne)",
+                    "redirect": false
+                }
+            ]
+        },
+        "transpose": {
+            "wiki_title": "transpose",
+            "ontology_terms": [
+                {
+                    "term": "transposing",
+                    "redirect": false
+                }
+            ]
+        }
+    },
+    "ontology_terms": {}
+}
